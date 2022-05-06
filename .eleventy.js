@@ -11,6 +11,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("FrontEnd/wmbn/js");
   //eleventyConfig.addPassthroughCopy("FrontEnd/wmbn/img");
   eleventyConfig.addPassthroughCopy("FrontEnd/wmbn/css");
+  eleventyConfig.addPassthroughCopy("FrontEnd/wmbn/fonts");
   // Copy `img/` to `_site/img`
   
   eleventyConfig.addPassthroughCopy("files");
