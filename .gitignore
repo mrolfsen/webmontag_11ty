@@ -1,0 +1,15 @@
+.idea
+.directory
+*.log
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+nbprojekt/
+*.esproj/
+config.codekit3
+/godot/link_list_*.js
+*.codekit3
+node_modules
+_site/

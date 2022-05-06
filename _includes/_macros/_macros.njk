@@ -1,0 +1,73 @@
+{% macro stellenausschreibung (link, title, text) %}
+<a href="files/{{ link }}" target="_blank" class="stellenausschreibung">
+    <div class="stellenausschreibung__container">
+        <div class="stellenausschreibung__head">
+            <h2>{{ title }} <br>(m/w/d)</h2>
+        </div>
+        <div class="stellenausschreibung__body">
+            <p>{{ text }}</p>
+            <div class="stellenausschreibung__download">
+                <svg><use xlink:href="#icon_pdf"></use></svg>
+                <span>Download Stellenausschreibung (PDF)</span>
+            </div>
+        </div>
+    </div>
+</a>
+{% endmacro %}    
+
+
+{% macro storyItem (img, width, height, alt, title, text, year) %}
+<div class="story__item {% if year %} story__item--big {% endif %}" data-year="{{ year }}">
+    <div class="story__card animation__item">
+        <div class="story__image">
+            {% image img, alt %}
+        </div>
+        <div class="story__text">
+            <div class="story__headlines">
+                <h3>{{ title }}</h3>
+                <p>{{ text }}</p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endmacro %}    
+
+
+{% macro sliderVideo (video, poster, author, follower) %}
+<div class="video-slide">
+    <video src="{{ video }}" poster="{{ poster }}" controls="" width="100%" height="auto"></video>
+    <h3>{{ author }}</h3>
+    <p>{{ follower }}</p>
+</div>
+{% endmacro %}    
+
+
+
+{% macro image (name, fileext, alt='', width='', height='', path='img/', loading='lazy', class='') %}
+<img src="{{ path }}{{ name }}.{{ fileext }}" width="{{ width }}" height="{{ height }}"
+     srcset="{{ path }}{{ name }}@0,5x.{{ fileext }} 768w,
+             {{ path }}{{ name }}@1x.{{ fileext }} 1280w,
+             {{ path }}{{ name }}.{{ fileext }} 1440w"
+     loading="{{ loading }}"
+     alt="{{ alt }}"
+     class="{{ class }}">
+{% endmacro %}
+
+<!-- Background Image for the header -->
+{% macro bgimage(image, fileext = 'jpg', path = 'img/', domTarget = ".hero--image") %}
+    <style>
+        {{domTarget}} {
+            background-image: url("{{ path }}{{ image }}@0,5x.{{ fileext }}");
+        }
+        @media (min-width:768px) {
+            {{domTarget}} {
+                background-image: url("{{ path }}{{ image }}@1x.{{ fileext }}");
+            }
+        }
+        @media (min-width:1280px) {
+            {{domTarget}} {
+                background-image: url("{{ path }}{{ image }}.{{ fileext }}");
+            }
+        }
+    </style>
+{% endmacro %}
