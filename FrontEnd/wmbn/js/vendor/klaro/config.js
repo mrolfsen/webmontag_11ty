@@ -1,6 +1,6 @@
 var klaroConfig = {
     cookieExpiresAfterDays: 365,
-    privacyPolicy: '/datenschutz.html',
+    privacyPolicy: '/datenschutz/',
     default: true,
     mustConsent: false,
     translations: {
@@ -16,12 +16,7 @@ var klaroConfig = {
                 description: 'Kartendienst von Google',
                 default:true,
             },
-            googleFonts: {
-                description: 'Web-Schriftarten von Google gehostet',
-                default: true,
-            },
             purposes: {
-                styling: 'Styling',
                 mapServices: 'Kartendienste',
             },
             consentModal: {
@@ -42,12 +37,6 @@ var klaroConfig = {
     },
     apps: [
 
-        {
-            name: 'googleFonts',
-            title: 'Google Fonts',
-            purposes: ['styling'],
-            default: true,
-        },
         {
             name: 'googleMap',
             title: 'Google Maps',
