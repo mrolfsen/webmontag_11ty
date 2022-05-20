@@ -63,8 +63,8 @@ Overbeckstr. 50
 <div class="row-fluid">
 
 **Location:**  
-Waschsalon Innovationpoint  
-[www.innovationpoint.de/](www.innovationpoint.de/)
+tba  
+
 
 **Design & Realisierung:**    
 bold & friendly | Designagentur  

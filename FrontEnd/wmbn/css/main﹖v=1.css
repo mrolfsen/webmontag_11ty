@@ -511,7 +511,7 @@ html {
 }
 
 body {
-    background: url(../img/contentBG.gif) center top
+    background: #f4f4f4;
 }
 
 a {
@@ -558,7 +558,7 @@ header div#logo .svgCarrier {
     background-size: contain;
     height: 1px;
     width: 100%;
-    padding: 25% 0 30% 0
+    padding: 25% 0 25% 0
 }
 
 header div#logo .svgCarrier .gifFallback {
@@ -772,11 +772,11 @@ header nav.socialMedia ul li a:hover {
 }
 
 div#content {
-    background: url(../img/greyBG.gif) center top
+    background: #e1e1e1;
 }
 
 section.green {
-    background: url(../img/greenBG.gif) center top;
+    background: #85ac1b;
     padding: 19px 0;
     margin: 9px 0;
     position: relative
