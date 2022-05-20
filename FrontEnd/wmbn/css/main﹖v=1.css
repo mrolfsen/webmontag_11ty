@@ -1036,7 +1036,6 @@ section figure {
 }
 
 section figcaption {
-    background: #1a171b url(https://webmontag-bonn.de/FrontEnd/wmbn/img/captionBGscale.gif) no-repeat scroll right bottom;
     margin: 10px 0 0;
     padding: 10px 20px 108px 14px;
     text-align: left;
