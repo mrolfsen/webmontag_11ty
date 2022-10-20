@@ -16,4 +16,18 @@ layout: _sitetemplate.njk
 </section>
 
 
-{{ content | safe }}
+<div id="main" role="main">
+    <div id="content"> <!-- narrowed down to 15 in this case -->
+        <article>
+            <section id="{nameOfArticle}" class="clearfix">
+                            
+                <div class="teaser_outer">
+                    <div class="teaser_inner">
+                        {{ content | safe }}
+                    </div>
+                </div>
+
+            </section>
+        </article>
+    </div> <!--! end of #content -->
+</div>

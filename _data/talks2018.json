@@ -1,0 +1,146 @@
+[
+ {
+   "talk_startseite": 1,
+   "talk_date": "19.11.2018",
+   "talk_title": "Domain-Driven Design – gemeinsam mehr erreichen",
+   "talk_description": "Für die Entwicklung komplexer Software wird ein Team benötigt, das interdisziplinär aufgestellt ist. Leider haben wir nie gelernt, fachübergreifend zu kommunizieren. Das macht es Fachexperten, Entwicklern und Designern schwer, einander zu verstehen – was sich letztlich in der entwickelten Software zeigt, die das falsche Problem löst, zu spät auf den Markt kommt, und deren Qualität nicht stimmt. Domain-Driven Design (DDD) legt den Schwerpunkt auf das Entwickeln einer gemeinsamen Sprache und verspricht, die interdisziplinäre Kommunikation auf die Art zu verbessern. Doch wie funktioniert DDD? Golo Roden stellt das Konzept vor und zeigt, wie sich derart modellierte Anwendungen auf einfachem Weg in JavaScript implementieren lassen.",
+   "talk_speaker": "Golo Roden",
+   "talk_speakerhandle": "goloroden",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "17.09.2018",
+   "talk_title": "Intrinsic Web Design",
+   "talk_description": "Responsive Web Design mit Floats und festen Breakpoints war erst der Anfang. Neuere CSS Entwicklungen wie Grid und Flexbox erlauben \"eingebaute\" Responsivnes bei klaren, semantischen Strukturen. Jen Simmons @jensimmons hat für die neue Art zu arbeiten den Begriff \"Intrinsic Web Design\" geprägt. Innerhalb eines halben Jahres wurde die CSS Grid Spezifikation in fast allen verbreiteten Browsern unterstützt, inkl. IE (mit Einschränkungen) und UC Browser. An Beispielen wollen wir sehen, wie die neuen Möglichkeiten bei kreativen Layouts helfen können und die alten ergänzen.",
+   "talk_speaker": "Georg Begerow",
+   "talk_speakerhandle": "gbegerow",
+   "talk_slideslink": "https://github.com/gbegerow/css-layout-bonn"
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "17.09.2018",
+   "talk_title": "Workshop Management Software für Makerspaces",
+   "talk_description": "Wie man einen Makerspace mit Open Source Software managen kann.",
+   "talk_speaker": "Kader Malik",
+   "talk_speakerhandle": "",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "16.07.2018",
+   "talk_title": "Wie Alexa, Chat-Bots & Co. Wissen managen und den Lerntransfer verbessern",
+   "talk_description": "Alexa, Siri & Co: Persönliche Assistenzsysteme verbreiten sich inzwischen rasend schnell und es ist bereits sicher, dass sie unser Leben und Arbeiten in Zukunft enorm verändern werden. Auch die Zukunft des E-Learnings liegt in ihrer Hand: Entwickelt werden interaktive Lernangebote, die auf die Wünsche des Anwenders zugeschnitten sind und individuelles Feedback geben. Erfahren Sie in diesem Vortrag, welche Technologien in Zukunft das Lernen beeinflussen werden, wo wir heute schon stehen und was Sie tun sollten, um die damit verbundenen Chancen zu nutzen.",
+   "talk_speaker": "Torsten Hardiess",
+   "talk_speakerhandle": "TorstenHardiess",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "16.07.2018",
+   "talk_title": "Statische Webseiten mit Jekyll",
+   "talk_description": "Statische Blogs versprechen eine höhere Sicherheit und Geschwindigkeit und sollen viele der Probleme von heutigen komplexen klassischen Content Management Systemen überwinden. Wann sollte man diese Ansatz wählen und welche Vor- und Nachteile gilt es zu beachten?",
+   "talk_speaker": "Hagen Bauer ",
+   "talk_speakerhandle": "hbauer",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "18.06.2018",
+   "talk_title": "Digital Hub Bonn",
+   "talk_description": "Webmontag exploration day: Digital Hub Bonn @IvanRyzk wird uns das Hub vorstellen und eine Führung geben. Im direkten Anschluss laden wir zum Round Table “Front-End Technologien” bei kühlen Getränken.",
+   "talk_speaker": "",
+   "talk_speakerhandle": "",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "28.05.2018",
+   "talk_title": "SEO und Technical Readiness für Googles Mobile-First-Index",
+   "talk_description": "Nach knapp anderthalb Jahren Testphase hat Google im März/April 2018 mit Wechsel zum Mobil-First-Index begonnen. Wie sollen Webmaster und SEOs mit den hier gestellten Anforderungen umgehen und welche Faktoren sind unter der neuen Prämisse „Mobile First!“ zu beachten? Der Vortrag versucht diese veränderten Prioritäten anhand einer praxisorientierten Audit-Vorlage für „Technical Readiness“ herauszuarbeiten und stellt entsprechende Tools und Strategien vor.",
+   "talk_speaker": "Sven Giese",
+   "talk_speakerhandle": "svengiese",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "28.05.2018",
+   "talk_title": "Internet of Bats – Fledermaus-Tracking",
+   "talk_description": "Lukas baut seit einiger Zeit in seiner Freizeit an offener Hard- und Software zur Überwachung von Fledermausquartieren und -Bewegungen, in diesem Vortrag stellt er bisher aufgekommene Ideen und den aktuellen Entwicklungsstand vor.",
+   "talk_speaker": "Lukas Schauer ",
+   "talk_speakerhandle": "lukas2511",
+   "talk_slideslink": "/files/pdfs/webmontag-mai-2018-internet-of-bats.pdf"
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "28.05.2018",
+   "talk_title": "DSGVO",
+   "talk_description": "Seit drei Tagen gibt die Datenschutzgrundverordnung einen neuen, europaweit einheitlichen Rechtsrahmen für die Verarbeitung personenbezogener Daten vor, der in allen EU-Mitgliedsstaaten einen einheitlichen Datenschutz-Standard gewährleisten soll. Doch wie immer bei großen gesetzlichen Reformwerken stellen sich auch zum Start der DSGVO eine Reihe von Fragen und Unsicherheiten. Dies gilt insbesondere auch für Webmaster: Was ändert sich wirklich und was ist nur Hysterie? Und wie soll mit den neuen Anforderungen umgegangen werden?",
+   "talk_speaker": "Udo Meisen",
+   "talk_speakerhandle": "praetorim",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "16.04.2018",
+   "talk_title": "gadget-night in der skybar",
+   "talk_description": "Webmontag exploration day: \"gadget-night in der skybar“ Die \"Gadget-night\" in der Konrad's Skybar im Bonn Marriott World Conference Hotel war ein entspannter Abend mit viel technischem Spielzeug und gutem Gin bei fantastischer Aussicht.",
+   "talk_speaker": "",
+   "talk_speakerhandle": "",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "19.03.2018",
+   "talk_title": "Slack",
+   "talk_description": "Ob verteiltes Team oder Home-Office: Entfernte Zusammenarbeit gehört für viele von uns zunehmend zum Alltag. Welchen Herausforderungen steht man dabei gegenüber? Und kann das Chat-Tool Slack helfen, diese Art der Arbeit effizienter zu gestalten?",
+   "talk_speaker": "Matthias Molitor",
+   "talk_speakerhandle": "Matthimatiker",
+   "talk_slideslink": "/files/pdfs/Slack.pdf"
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "19.03.2018",
+   "talk_title": "BEM CSS",
+   "talk_description": "CSS wird schnell unübersichtlich. BEM hilft hier durch konsequente Strukturierung von Markup und Stylesheets. Wir schauen gemeinsam und praxisnah auf Vorteile, Nachteile und mögliche Workarounds.",
+   "talk_speaker": "Andreas Gartz ",
+   "talk_speakerhandle": "derskysh",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "19.03.2018",
+   "talk_title": "Digitale (Bahn-)Nomadin",
+   "talk_description": "Leonie hat eineinhalb Jahre lang ihre Wohnung gegen eine BahnCard100 getauscht. In ihrem Vortrag erzählt sie von ihrem seminomadischen Leben und wirft einen Blick auf die internationale Nomadenszene und die Technologien, die diese ermöglichen.",
+   "talk_speaker": "Leonie Müller",
+   "talk_speakerhandle": "seiachtzehn",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "19.02.2018",
+   "talk_title": "Film Screening im Kino in der Brotfabrik mit anschließender Diskussion:\"Her\"",
+   "talk_description": "\"Betriebssystem - wir müssen reden.“ In der postmodernen Near-Future-Sci-Fi-Saga bescheibt der Film “Her” weniger die zukünftige Praxis von technoiden Beziehungen als vielmehr gegenwärtige Bedürfnisse nach menschlicher Nähe und deren perfekten (?) Simulation. Im Vordergrund stehen also nicht die Fähigkeiten eines omnipotenten- und präsenten Systems, sondern unser Verhältnis zu transmedialen Akten der Liebe.",
+   "talk_speaker": "Moderation: Damian Paderta",
+   "talk_speakerhandle": "",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "15.01.2018",
+   "talk_title": "Performance: Die neue UX-Grundanforderung",
+   "talk_description": "Wir schauen uns an, wie die konzeptionelle Unterstützung der technischen Optimierungen mit „Priority Wireframes“ aussehen kann und nutzen außerdem schlaue Methoden aus der Wahrnehmungspsychologie-Trickkiste.",
+   "talk_speaker": "Søren Birkemeyer",
+   "talk_speakerhandle": "Polarbirke",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "15.01.2018",
+   "talk_title": "IT des Wandels: Freie Software für einen nachhaltigen Gesellschaftswandel?",
+   "talk_description": "Bonn im Wandel ist ein Ideenlabor und Treffpunkt für Menschen, die den gesellschaftlichen Wandel hin zu einer gerechten und enkeltauglichen Stadt vorantreiben. Wie sieht eine IT-Infrastruktur aus, die diesen Wandel unterstützt?",
+   "talk_speaker": "Andi Rüther ",
+   "talk_speakerhandle": "bonnimwandel",
+   "talk_slideslink": ""
+ }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "talk_startseite": 1,
+    "talk_date": "20.01.2020",
+    "talk_title": "CSS Grid – the moment I stopped hating CSS (so much)",
+    "talk_description": "For a very long time when using CSS I did not have the feeling that I actually knew what I was doing. I heavy relied on third party libraries or some Dr. Frankenstein stackoverflow-snippet monster and inconsistent behavior across different browsers did not make it better. But CSS greatly improved in the last couple years and made all our lives easier. For me the biggest leap forward was CSS Grid. I want to show you how easy it is to make modern and responsive layouts with CSS Grid and hopefully make you hate CSS a little less as well.",
+    "talk_speaker": "Nikita Malyschkin",
+    "talk_speakerhandle": "nmalyschkin",
+    "talk_slideslink": "https://slides.com/nikitamalyschkin/deck-dea9f3#/"
+  },
+  {
+    "talk_startseite": null,
+    "talk_date": "20.01.2020",
+    "talk_title": "Shadow DOM: Runter von meinem Rasen!",
+    "talk_description": "Für Backend-Entwickler ist HTML immer wieder ein Albtraum: Seien es externe Libraries, seien es benutzerdefiniertes CSS: Hat jemand einmal den Fuss in der Tür, ist die Webseite schutzlos ausgeliefert. Das DOM wird nach Belieben manipuliert, das CSS wird invalide oder koppelt sich mit Elementen die dafür nie vorgesehen waren. Mit Shadow DOM steht jetzt ein neues Werkzeug vor der Tür, das die Kapselung von Elementen ins Frontend bringen soll. Wir schauen uns an wie scharf das Schwert ist, was es heute schon kann und wie die Perspektiven aussehen.",
+    "talk_speaker": "Marcel Normann",
+    "talk_speakerhandle": "",
+    "talk_slideslink": "/files/pdfs/webcomponents.pdf"
+  }
+]

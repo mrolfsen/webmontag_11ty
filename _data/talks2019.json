@@ -1,0 +1,119 @@
+[
+ {
+   "talk_startseite": 1,
+   "talk_date": "18.11.2019",
+   "talk_title": "ReactPHP",
+   "talk_description": "Christian Lück wird uns einen Einblick in ReactPHP geben und erklären, warum es seinem Cousin Node.js in nichts nachsteht. Beruflich arbeitet Christian als Freelance Software Engineer und coacht Entwicklungsteams im Webbereich. Auch ist er Maintainer von ReactPHP.",
+   "talk_speaker": "Christian Lück",
+   "talk_speakerhandle": "another_clue",
+   "talk_slideslink": "https://speakerdeck.com/clue/pushing-the-limits-of-php-symfonylive-berlin"
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "21.10.2019",
+   "talk_title": "Usability Testing",
+   "talk_description": "Usability Testing ist in Software ein immer größer werdendes Thema. Hersteller stellen sich die Fragen „Wie ist meine Software einfacher zu bedienen?“, „Wie kann ich die Bedürfnisse des Nutzers optimal befriedigen?“ oder auch „Woran bemerke ich überhaupt, ob meine Software gut und der Nutzer zufrieden ist?“.Zur Klärung dieser Fragen erläutert Lina Dillmann wie Software getestet werden kann und wie dabei effektive Ergebnisse erzielt werden. Lina Dillmann ist im Bereich Requirements Engineering bei der WhereGroup in Bonn tätig. Zuvor war sie User Interface & User Experience Designerin und hat verschiedene Software mitentwickelt und optimiert.",
+   "talk_speaker": "Lina Dillmann",
+   "talk_speakerhandle": "@linaDillmann",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "16.09.2019",
+   "talk_title": "Web Application Security",
+   "talk_description": "Wer sich mit Webentwicklung befasst, kennt Abkürzungen wie XSS, CSRF oder LFI. Doch welche Sicherheitslücken dahinter stecken, welchen Schaden ein Angreifer anrichten kann, der sie ausnutzt und wie man diese und andere Sicherheitslücken vermeiden und beheben kann, bleibt häufig im Dunkeln. Marian Kogler, Geschäftsführer bei der syret GmbH, einem auf IT-Sicherheit spezialisierten Unternehmen, erklärt in diesem Vortrag, welche Schwachstellen man häufig in Webapplikationen findet, demonstriert bei einem Live-Hacking anhand einer unsicheren Webapplikation, wie schnell ein Angreifer zum heimlichen Admin werden kann und zeigt, was man als Entwickler oder Betreiber dagegen machen kann.",
+   "talk_speaker": "Marian Kogler",
+   "talk_speakerhandle": "",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "16.09.2019",
+   "talk_title": "Sichtbarkeit – Buzzword oder Bürde?",
+   "talk_description": "#SichtbarImNetz: Lass Dich finden! Praxistipps fürs PersonalBranding – In Zeiten von SEO, SEA und sinkender Reichweiten in Social Media wird Investment in das eigene PersonalBranding immer wichtiger. Aber wie werde ich zur Marke? Martina Troyer,  SichtbarkeitsCoach & Expertin für Webstrategie und Contentmarketing gibt Praxistipps im Kurzvortrag mit anschließendem Bestpractice-Austausch.",
+   "talk_speaker": "Martina Troyer",
+   "talk_speakerhandle": "@netzgewandt",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "15.07.2019",
+   "talk_title": "Gitea",
+   "talk_description": "Gitea ist eine leichtgewichtige, quelloffene Code-Hosting-Plattform. Genauso wie GitLab wird es gerne als On Premises-Alternative für Github eingesetzt. Daniel Appelt entwickelt Unternehmenssoftware bei der ABRACON GmbH in Bonn. In seinem Vortrag berichtet er über die Gitea-Migration des Subversion-Servers des kleinen Unternehmens mit knapp 200 Projekten.",
+   "talk_speaker": "Daniel Appelt",
+   "talk_speakerhandle": "",
+   "talk_slideslink": "https://github.com/danielappelt/talk-gitea-webmontag-bonn/blob/gh-pages/index.adoc"
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "15.07.2019",
+   "talk_title": "Git und Github - eine Annäherung.",
+   "talk_description": "Git - zu Deutsch der Depp - und Github dominieren mittlerweile klar als Versionsverwaltungssysteme. Wir wollen uns ansehen, was git als dezentrales System auszeichnet und was typische Nutzungsmuster in verteilten Teams sind. Außerdem beleuchten wir Github und seine Rolle im git-Ökosystem. Rainer Jung ist Mitglied der Apache Software Foundation und u.a. Committer beim Apache Webserver und Apache Tomcat. Er ist auch Mitbegründer der Bonner kippdata GmbH.",
+   "talk_speaker": "Rainer Jung",
+   "talk_speakerhandle": "",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "20.05.2019",
+   "talk_title": "Wie funktioniert Marktforschung im agilen Prozess?",
+   "talk_description": "Alles soll agil sein, insbesondere im Bereich von UX Research. Aber wie genau kann es die traditionelle Marktforschung schaffen, da mitzuhalten und wertvollen Input zu liefern? Anhand von ein paar Beispielen und Erfahrungen zeigen wir, was wir so gelernt haben.",
+   "talk_speaker": "Till Winkler",
+   "talk_speakerhandle": "SKOPOS_NOVA",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "15.04.2019",
+   "talk_title": "Screening im Kino in der Brotfabrik mit anschließender Diskussion:\"Ghost in the Shell\"",
+   "talk_description": "\"Wenn ein Cyborg seinen eigenen Geist erschaffen könnte, welchen Zweck hätte Menschsein?“ Der Anime-Film \"Ghost in the Shell\" spielt im Jahr 2029, in dem internationale Konzerne die digitalen Netzwerke besitzen, und erzählt uns von unsere Abhängigkeit unserer Identität und Selbstdarstellung im Web. Das klingt heute, knapp 25 Jahre nach Erscheinen des Films, gar nicht mehr nach Science Fiction. Die Mixtur aus Nacktheit, Melancholie, Gewalt und Tech-Porn und die stellenweise Undurchdringbarkeit dieses Film Noir lässt uns im Ungewissen. Sie öffnet aber gleichzeitig den Raum für die Frage nach Körperlichkeit im Digitalen und provoziert neuen Bildern im Spekulativen, über die wir gerne mit Euch diskutieren möchten.",
+   "talk_speaker": "Moderation: Damian Paderta.",
+   "talk_speakerhandle": "",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "18.03.2019",
+   "talk_title": "Hubs4Change: Eine neue Online-Plattform für nachhaltige Initiativen und Unternehmen in Bonn",
+   "talk_description": "Ob als ehrenamtlich getragene Initiative, Unternehmen oder Verband: Es gibt viele Orte des Wandels, doch häufig fehlt der Überblick wo es in meiner Nähe eine passende Organisation gibt. Hubs4Change ermöglicht die dezentrale Kartierung und aggregiert diese und andere Datenbanken in einem Metahub für den großen Überblick. Open Source und Community-getragen, mit starken Wurzeln in der Wandelbewegung bald als Beta-Projekt Bonn.",
+   "talk_speaker": "Andi Rüther",
+   "talk_speakerhandle": "andi_ru",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "18.03.2019",
+   "talk_title": "Vue.js -Teil 2",
+   "talk_description": "Vue (gesprochen [vju], wie View] ist ein progessives Framework um User Interfaces zu bauen. Der Einsatz reicht vom einfachen jQuery Ersatz zur mehr als vollwertigen Alternative zu Single Page Frameworks wie Angular, Aurelia oder React. Teil I: Framework und Konzepte, Vue Router, Vuepress, Eagle.js Teil II (März): Nuxt, VueX.",
+   "talk_speaker": "Georg Begerow",
+   "talk_speakerhandle": "@gbegerow",
+   "talk_slideslink": "https://github.com/gbegerow/intro-vue-bonn"
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "18.02.2019",
+   "talk_title": "gadget-night im Bierhaus Machold",
+   "talk_description": "Webmontag exploration day:\"gadget-night im Bierhaus Machold“ Im Februar traffen wir uns zur Bier-Edition mit „Gadget-Night“ im Bierhaus Machold bei Essen und Getränken zum entspannten Netzwerken.",
+   "talk_speaker": "",
+   "talk_speakerhandle": "",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "21.01.2019",
+   "talk_title": "Die Weisheit und Macht der eigenen Crowd entfesseln – Open Space Technologie im Unternehmenseinsatz",
+   "talk_description": "Open Space Technology (OST) und Barcamps haben die Art wie wir Konferenzen abhalten stark verändert. Die Methoden funktionieren jedoch auch im Kontext von Unternehmen um sehr unterschiedliche Aufgabenstellungen gemeinsam mit einer großen Gruppe von Menschen zu lösen. Nach einer kurzen Einführung in die Grundlagen von OST teilt David Schmithüsen mit uns seine Erfahrungen mit Open Space Technology.",
+   "talk_speaker": "David Schmithüsen",
+   "talk_speakerhandle": "@schmithu",
+   "talk_slideslink": ""
+ },
+ {
+   "talk_startseite": null,
+   "talk_date": "21.01.2019",
+   "talk_title": "Vue.js",
+   "talk_description": "Vue (gesprochen [vju], wie View] ist ein progessives Framework um User Interfaces zu bauen. Der Einsatz reicht vom einfachen jQuery Ersatz zur mehr als vollwertigen Alternative zu Single Page Frameworks wie Angular, Aurelia oder React. Teil I: Framework und Konzepte, Vue Router, Vuepress, Eagle.js Teil II (März): Nuxt, VueX.",
+   "talk_speaker": "Georg Begerow",
+   "talk_speakerhandle": "@gbegerow",
+   "talk_slideslink": ""
+ }
+]
