@@ -3,8 +3,8 @@ title: "Home"
 layout: "_sitetemplate"
 bodyClass: "start"
 date: 2019-01-01
-nextDate: "19.09.2022"
-nextMonth: "September"
+nextDate: "17.07.2023"
+nextMonth: "Juli"
 tags:
     - headerNavi
 ---
