@@ -19,5 +19,10 @@
   "homepage": "https://github.com/mrolfsen/webmontag_11ty#readme",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {
+    "@quasibit/eleventy-plugin-sitemap": "^2.2.0",
+    "eleventy-plugin-rev": "^1.1.1",
+    "eleventy-sass": "^2.2.3"
   }
 }

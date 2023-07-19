@@ -1,0 +1,30 @@
+// Le Header
+
+
+.logo {
+    display:flex;
+    align-items: center;
+    max-width:100%;
+
+    .start & {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .signet {
+        width:4em;
+        margin-right:.5em;
+
+        .start & {
+            margin-bottom:.5em;
+            height:10em;
+            width:10em;
+        }
+    }
+    .logotype {
+        height:3em;
+
+        .start & {
+            height:15em;
+        }
+    }
+}

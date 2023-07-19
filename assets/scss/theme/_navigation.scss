@@ -1,0 +1,42 @@
+
+header nav ul {
+    margin: 0;
+    padding: 0 0 10px
+}
+
+header nav ul li {
+    display: inline-block
+}
+
+header nav ul li,
+header nav ul li a {
+    text-decoration: none;
+    color: #1a181c;
+    text-align: center;
+    font: 600 16px/20px Bitter, serif;
+    margin: 0;
+    padding: 22px 7px;
+    text-transform: uppercase
+}
+
+header nav ul li a:hover {
+    color: #97bf0e
+}
+
+header nav ul li.active a,
+header nav ul li a.link-active {
+    color: #97bf0e;
+    position: relative
+}
+
+header nav ul li.active a:after,
+header nav ul li a.link-active:after {
+    position: absolute;
+    top: -20px;
+    left: 8px;
+    content: "";
+    border-left: 20px solid #97bf0e;
+    border-right: 20px solid transparent;
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent
+}

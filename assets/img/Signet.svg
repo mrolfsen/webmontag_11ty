@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="183px" height="183px" viewBox="0 0 183 183" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Signet</title>
+    <g id="Signet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#000000" cx="91.5" cy="91.5" r="91.5"></circle>
+        <g id="Group-3-Copy" transform="translate(35.8545, 51.0348)" stroke-width="1.264">
+            <path d="M16.2730894,5.25220596 C19.1009627,5.25220596 21.6728006,6.35121939 23.5870004,8.14640095 C25.5097624,9.94961232 26.7693106,12.4550723 26.9584185,15.2550042 L26.9829636,74.4942539 L5.56295334,74.4942539 L5.56295334,15.2563749 C5.76424231,12.4547599 7.03094882,9.94795749 8.95841223,8.14426397 C10.8753667,6.35040452 13.4462877,5.25220596 16.2730894,5.25220596 Z" id="Combined-Shape" stroke="#858585" fill-opacity="0.216935164" fill="#FFFFFF"></path>
+            <rect id="Rectangle-Copy" stroke="#858585" fill-opacity="0.216935164" fill="#FFFFFF" x="48.9265075" y="16.6241492" width="21.4202722" height="57.1119752"></rect>
+            <ellipse id="Oval" stroke="#FFFFFF" fill="#E1E1E1" cx="16.2730894" cy="16.2733524" rx="10.7101361" ry="10.7399432"></ellipse>
+            <g id="Group" transform="translate(37.8006, 44.9652) rotate(-323) translate(-37.8006, -44.9652)translate(26.4438, -2.7748)" stroke="#FFFFFF">
+                <rect id="Rectangle" fill-opacity="0.752274093" fill="#C4C4C4" x="0.643291259" y="11.745568" width="21.4202722" height="71.5164366"></rect>
+                <ellipse id="Oval" fill="#E1E1E1" cx="11.3713772" cy="11.3719432" rx="10.7101361" ry="10.7399432"></ellipse>
+                <ellipse id="Oval-Copy" fill="#E1E1E1" cx="11.3421361" cy="84.1081296" rx="10.7101361" ry="10.7399432"></ellipse>
+            </g>
+            <g id="Group-Copy" transform="translate(81.4867, 44.9652) rotate(-323) translate(-81.4867, -44.9652)translate(70.1269, -2.7771)" stroke="#FFFFFF">
+                <rect id="Rectangle" fill-opacity="0.752274093" fill="#C4C4C4" x="0.643291259" y="11.7501306" width="21.4202722" height="71.5164366"></rect>
+                <ellipse id="Oval" fill="#E1E1E1" cx="11.377416" cy="11.3719432" rx="10.7101361" ry="10.7399432"></ellipse>
+                <ellipse id="Oval-Copy" fill="#E1E1E1" cx="11.3421361" cy="84.1126921" rx="10.7101361" ry="10.7399432"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

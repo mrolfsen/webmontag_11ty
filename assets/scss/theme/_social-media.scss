@@ -1,0 +1,25 @@
+nav.socialMedia {
+    ul {
+        padding: 10px 10px 0;
+        display:flex;
+    }
+
+    ul li {
+        display: inline-block;
+        padding: 0;
+        margin: 0
+    }
+
+    ul li a {
+        display: block;
+        margin: 0;
+        padding: 0;
+        -webkit-transition: opacity ease-in-out .2s;
+        transition: opacity ease-in-out .2s
+    }
+
+    ul li a:hover {
+        opacity: 60/100;
+        filter: alpha(opacity=60)
+    }
+}
