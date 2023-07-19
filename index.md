@@ -5,8 +5,6 @@ bodyClass: "start"
 date: 2019-01-01
 nextDate: "17.07.2023"
 nextMonth: "Juli"
-tags:
-    - headerNavi
 ---
 
 {% extends "_starttemplate.njk" %}

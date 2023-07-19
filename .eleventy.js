@@ -62,6 +62,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("browserconfig.xml");
   eleventyConfig.addPassthroughCopy(".htaccess");
   eleventyConfig.addPassthroughCopy("assets/fonts");
+  eleventyConfig.addPassthroughCopy("assets/js");
 
   
 

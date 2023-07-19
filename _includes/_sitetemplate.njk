@@ -14,7 +14,7 @@
     <meta property="og:url" content="https://www.webmontag-bonn.de{{ page.url }}"/>
     <meta property="og:type" content="article">
 
-    <script src="/FrontEnd/wmbn/js/vendor/modernizr-2.6.1.min.js"></script>
+    <script src="/assets/js/vendor/modernizr-2.6.1.min.js"></script>
 
     <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
     <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
@@ -55,27 +55,22 @@
 
         <header>
             <!-- Navigation bar -->
-            <div class="navbarContainer">
-                <div class="navbar">
-                    <div class="row-fluid">
-                        <div class="span8">
-                            <nav>
-                                <ul>
-                                    {%- for post in collections.headerNavi -%}
-                                    <li {% if page.url == post.url %} class="active" {% endif %}>
-                                        <a href="{{ post.url }}">{{ post.data.title }}</a>
-                                    </li>
-                                    {%- endfor -%}
-                                </ul>
-                            </nav>
-                        </div>
-                        </div>
-                </div>
-            </div>
-            <div class="logo">
+            
+            <nav>
+                <ul>
+                    {%- for post in collections.headerNavi -%}
+                    <li {% if page.url == post.url %} class="active" {% endif %}>
+                        <a href="{{ post.url }}">{{ post.data.title }}</a>
+                    </li>
+                    {%- endfor -%}
+                    <li><a href="#">Meetup link</a></li>
+                </ul>
+            </nav>
+
+            <a class="logo" href="/">
                 <img class="signet" src="/assets/img/Signet.svg" alt="">
                 <img class="logotype" src="/assets/img/Webmontag Bonn-LogoType.svg" alt="">
-            </div>
+            </a>
             <!-- EOF Navi -->
         </header>
         <!-- The Content -->
