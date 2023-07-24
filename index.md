@@ -12,7 +12,7 @@ nextMonth: "Juli"
 
 {% block einleitung %} 
 
- ###### Der Webmontag Bonn ist ein zwangloses Zusammentreffen webaffiner Menschen, die bei einem Kaffee oder Bier Kontakte kn&uuml;pfen und sich &uuml;ber die aktuelle Entwicklung im Web austauschen m&ouml;chten. In der Regel gibt es ein bis zwei Vortr&auml;ge &ndash; jeder ist eingeladen, sich einzubringen. Bitte k&uuml;ndigt euren Vortrag im Vorfeld [hier](mailto:welcome@wmbn.de) an, das hilft uns ungemein bei der Koordination. Eine **[Vortrags-Wunschliste findet ihr hier](/vortrags-wunschliste/)**  
+Der Webmontag Bonn ist ein zwangloses Zusammentreffen webaffiner Menschen, die bei einem Kaffee oder Bier Kontakte kn&uuml;pfen und sich &uuml;ber die aktuelle Entwicklung im Web austauschen m&ouml;chten. In der Regel gibt es ein bis zwei Vortr&auml;ge &ndash; jeder ist eingeladen, sich einzubringen. Bitte k&uuml;ndigt euren Vortrag im Vorfeld [hier](mailto:welcome@wmbn.de) an, das hilft uns ungemein bei der Koordination. Eine **[Vortrags-Wunschliste findet ihr hier](/vortrags-wunschliste/)**  
 
 {% endblock %}
 

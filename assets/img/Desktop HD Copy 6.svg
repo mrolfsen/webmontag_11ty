@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="2042px" viewBox="0 0 1440 2042" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Desktop HD Copy 6</title>
+    <defs>
+        <linearGradient x1="50%" y1="-0.97631716%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#BEFFCB" offset="22.6455336%"></stop>
+            <stop stop-color="#BDFFFF" offset="68.9560055%"></stop>
+            <stop stop-color="#AEEDFF" offset="87.9805985%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-9.5%" y="-6.6%" width="119.1%" height="113.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Desktop-HD-Copy-6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.653214228">
+        <path d="M240,-208.5 C418.801493,-208.5 580.675579,-135.131162 697.849478,-16.5106707 C815.025585,102.112054 887.5,265.987965 887.5,447 C887.5,581.985651 847.196414,707.441743 778.107258,811.706714 L775.682987,815.341977 L783.026779,818.659803 C896.997262,870.957101 993.346354,955.700197 1060.57279,1061.24465 C1125.70461,1163.5006 1163.5,1285.28204 1163.5,1416 C1163.5,1597.01204 1091.02558,1760.88795 973.849478,1879.51067 C856.675579,1998.13116 694.801493,2071.5 516,2071.5 C337.198507,2071.5 175.324421,1998.13116 58.1505215,1879.51067 C-59.025585,1760.88795 -131.5,1597.01204 -131.5,1416 C-131.5,1281.01435 -91.196414,1155.55826 -22.1072175,1051.29323 L-19.6830269,1047.65693 L-27.0267792,1044.3402 C-140.997262,992.042899 -237.346354,907.299803 -304.572788,801.75535 C-369.704613,699.499399 -407.5,577.717956 -407.5,447 C-407.5,265.987965 -335.025585,102.112054 -217.849478,-16.5106707 C-100.675579,-135.131162 61.1985071,-208.5 240,-208.5 Z" id="Combined-Shape" stroke="#979797" fill="url(#linearGradient-1)" filter="url(#filter-2)"></path>
+    </g>
+</svg>

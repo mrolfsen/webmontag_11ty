@@ -3,20 +3,22 @@
     <div class="centered">
         <div class="row-fluid">
             <div class="span8"><button>Info</button>
-            
-{% block einleitung %} 
-{% endblock %}
-
-</div>
-            <div class="span4">
-                <h4>N&auml;chster Termin <br /><span>{{ nextDate }} </span></h4>
-
+                <div class="introduction">
+                    {% block einleitung %} 
+                    {% endblock %}
+                </div>
+            </div>
+            <div class="date">
+                <p class="date__headline">N&auml;chster Termin </p>
+                <div class="date__date">
+                <h4>{{ nextDate }}</h4> {%- include '_includes/_meetup-button.njk' %}
+                </div>
+            </div>
                 {% block wannwo %} 
                 {% endblock %}
-
-</div>
-</div>
-
+            </div>
+        </div>
+    </div>
 </div>
 </section>
 

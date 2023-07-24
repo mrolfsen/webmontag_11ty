@@ -63,7 +63,9 @@
                         <a href="{{ post.url }}">{{ post.data.title }}</a>
                     </li>
                     {%- endfor -%}
-                    <li><a href="#">Meetup link</a></li>
+                    <li>
+                        {%- include '_includes/_meetup-button.njk' %}
+                    </li>
                 </ul>
             </nav>
 
@@ -97,7 +99,6 @@
 
         <footer>
             <div class="centered">
-
                 <nav class="socialMedia">
                     <ul>
                         <li><a href="https://twitter.com/#!/webmontagbonn" target="_blank" rel="noopener" title="twitter" aria-label="twitter">
@@ -127,20 +128,23 @@
                         </a></li>
                     </ul>
                 </nav>
+                <nav class="supportNavi">
+                    <ul>
+                        {%- for post in collections.footerNavi -%}
+                        <li {% if page.url == post.url %} class="active" {% endif %}>
+                            <a href="{{ post.url }}">{{ post.data.title }}</a>
+                        </li>
+                        {%- endfor -%}
+                    </ul>
+                </nav>
+                <div class="sponsor">
+                    <img src="/assets/img/digital-hub-logo.png" alt="Logo des Digital-Hub Bonn">
+                </div>
                 <div class="row-fluid">
                     <div class="span6">
                         <p>&copy {{ helpers.currentYear() }} Design &amp; Development: <a href="https://www.boldandfriendly.de" target="_blank" rel="noopener">bold & friendly | Designagentur</a></p>
                     </div>
                     <div class="span6">
-                        <nav>
-                            <ul>
-                                {%- for post in collections.footerNavi -%}
-                                <li {% if page.url == post.url %} class="active" {% endif %}>
-                                    <a href="{{ post.url }}">{{ post.data.title }}</a>
-                                </li>
-                                {%- endfor -%}
-                            </ul>
-                        </nav>
                     </div>
                 </div>
                 <div class="row-fluid">

@@ -9,6 +9,7 @@
     .start & {
         flex-direction: column;
         align-items: flex-start;
+        max-width: clamp(5em, 80vw, 70em);
     }
     .signet {
         width:4em;
@@ -16,15 +17,16 @@
 
         .start & {
             margin-bottom:.5em;
-            height:10em;
-            width:10em;
+            height:auto;
+            width:16%;
         }
     }
     .logotype {
         height:3em;
 
         .start & {
-            height:15em;
+            height:auto;
+            width:100%;
         }
     }
 }
