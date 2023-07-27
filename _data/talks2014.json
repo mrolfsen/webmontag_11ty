@@ -1,0 +1,47 @@
+[
+{
+    "talk_startseite": null,    
+"talk_date": "17.03.2014",
+"talk_title": "Nive",
+"talk_speaker":"Arndt Droullier",
+"talk_speakerhandle":"arndtdr",
+"talk_description": "Bei der Webentwicklung sind Frameworks und Libraries ein zentraler Faktor und nicht mehr wegzudenken (wer fängt schon gerne jedes mal bei Null an?). In letzter Zeit kommen auch Web APIs immer mehr in den Fokus und bilden eine echte Alternative oder Ergänzung zu Frameworks und Libraries. Die Cloud Plattform Nive geht einen Schritt weiter und setzt neben WebAPIs, den Fokus auf Integration um eine komplette Umgebung zum Veröffentlichungen von Webanwendungen bereitzustellen.",
+"talk_slidelink":""
+},
+{
+"talk_startseite": null,
+"talk_date": "17.03.2014",
+"talk_title": "Bonner Blogs",
+"talk_speaker":"Sascha Foerster&nbsp",
+"talk_speakerhandle":"Sascha_Foerster",
+"talk_description": "Sascha stellte uns in einem Kurzvortrag seinen Aggregator für die Bonner Blogosphäre vor",
+"talk_slidelink":""
+},
+{
+"talk_startseite": null,
+"talk_date": "17.03.2014",
+"talk_title": "Hands-on: Windows 8.1 Baytrail mobile devices",
+"talk_speaker":"Stephen Paine",
+"talk_speakerhandle":"Chippy",
+"talk_description":"Wir hatten Gelegenheit, an die neueste Generation Baytrial-betriebener Tablets, Convertibles und Ultrabooks Hand anzulegen, die Stephen im Gepäck hatte.",
+"talk_slidelink":""
+},
+{
+"talk_startseite": null,
+"talk_date": "20.01.2014",
+"talk_title": "IFTTT",
+"talk_speaker":"Thomas Lang",
+"talk_speakerhandle":"ThomasLang",
+"talk_description":"Was ist IFTTT? IFTTT ist ein webservice, der verschiedene andere Services mit einfachen 'Aussagen' mit einander verbindet: If this, then that. Das nennt sich dann ein 'Rezept'. Es spricht sich im übrigen wie 'Gift' ohne das 'G'.",
+"talk_slidelink":""
+},
+{
+"talk_startseite": null,
+"talk_date": "20.01.2014",
+"talk_title": "Mobile Online Shops – Stiefkinder oder Thronfolger?",
+"talk_speaker":"Hans-Joachim Belz",
+"talk_speakerhandle":"minuteFForts",
+"talk_description":"Die Umwälzungen im Nutzungsverhalten durch die 'mobile Revolution' stellen die Betreiber von Online Shops vor große technische und konzeptionelle Herausforderungen. Die vorliegende Benchmarkstudie versucht anhand von Heuristiken und vergleichenden Analysen einen überblick zu geben über den aktuellen Stand von Design und Usability großer Online Shops im mobilen Web.",
+"talk_slidelink":""
+
+}]

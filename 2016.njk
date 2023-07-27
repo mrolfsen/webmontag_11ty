@@ -7,8 +7,17 @@ tags:
 ---
 
 
+
+                      
+{% for item in talks2016 %}              
+
+	{% include '_includes/_talk-item.njk' %}
+
+{% endfor %}
+
+<!-- 
             <div id="main" role="main">
-                <div id="content"> <!-- narrowed down to 15 in this case -->
+                <div id="content"> 
                     <article>
                         <section id="{nameOfArticle}" class="clearfix">
                             	
@@ -293,7 +302,7 @@ tags:
 </div></div></div><div id="pager"><span>1</span></div>
                         </section>
                     </article>
-                </div> <!--! end of #content -->
+                </div>
             </div>
 
-     
+      -->

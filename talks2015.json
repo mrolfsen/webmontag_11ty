@@ -1,0 +1,174 @@
+[
+{           
+"talk_startseite": null,
+"talks_date":"16.11.2015",
+"talk_title":"Digitaler Nachlass (nach dem realen Tod",
+"talk_speaker":"Lina Dillmann",
+"talk_speakerhandle":"linadillmann",
+"talk_description":"Was passiert in der digitalen Welt wenn eine reale Person stirbt? Kann man den realen Tod in der digitalen Welt vorbereiten?",
+"talk_slideslink":""
+},
+{	
+"talk_startseite": null,
+"talks_date":"16.11.2015",
+"talk_title":"Selenium",
+"talk_speaker":"Andreas Monschau",
+"talk_speakerhandle":"andreasmonschau",
+"talk_description":"Testen von Webanwendungen kurz und knackig &ndash; wie man seine Tests mit Selenium automatisiert, am Beispiel der Firefox Extension Selenium IDEsowie mit Selenium Webdriver aus Java heraus.",
+"talk_slideslink":""
+},
+{	
+"talk_startseite": null,
+"talks_date":"19.10.2015",
+"talk_title":"Warum wir eine digitale APO brauchen",
+"talk_speaker":"Gunnar Sohn",
+"talk_speakerhandle":"gsohn",
+"talk_description":"Eine neue, moderne, au&szlig;erparlamentarische Opposition muss sowohl die digitalen wie die realen R&auml;ume nutzen, sie muss sich sowohl Denklabore durch streitbare &ouml;ffentliche Debatten als auch Reallabore in Unternehmen, Hochschulen und anderen gesellschaftlichen Organisationen schaffen.",
+"talk_slideslink":""
+},
+{	
+"talk_startseite": null,
+"talks_date":"19.10.2015",
+"talk_title":"Wie baue ich ein Nischenportal",
+"talk_speaker":"Fabian Jaeckert & Benjamin O'Daniel",
+"talk_speakerhandle":"benodaniel",
+"talk_description":"Fabian Jaeckert ist SEO-Experte und Benjamin O&rsquo;Daniel ist Content Stratege. An einem Praxisbeispiel stellen sie vor, wie sie gemeinsam ein Nischenportal aufgebaut haben. Die Website hat rund 30.000 Besucher pro Jahr &ndash; ohne regelm&auml;&szlig;ige Blogbeitr&auml;ge. Ein Vortrag f&uuml;r alle, die mehr Traffic haben wollen.",
+"talk_slideslink":""
+},
+{	
+"talk_startseite": null,
+"talks_date":"21.09.2015",
+"talk_title":"In der Höhle der Löwen",
+"talk_speaker":"Sebastian Muszynski",
+"talk_speakerhandle":"",
+"talk_description":"Wie man sich f&uuml;r H&ouml;chstlasten w&auml;hrend eines TV-Auftritts wappnet. Ein Liebeslied &uuml;ber die Amazon Web Services.",
+"talk_slideslink":""
+},
+{	
+"talk_startseite": null,
+"talks_date":"21.09.2015",
+"talk_title":"Compute-Sticks, NUCs und alles dazwischen",
+"talk_speaker":"Steve 'Chippy' Paine",
+"talk_speakerhandle":"chippy",
+"talk_description":"Chippy zeigt, was sich auf dem Kleinst-Rechner-Markt mit Windows 10 getan hat &ndash; Mit Demo nat&uuml;rlich.Einiges vom Inhalt des Vortrags kann man auch in diesem (Studio-)",
+"talk_slideslink":"http://www.umpcportal.com/2015/09/combining-win10-uwp-onedrive-continuum-arm-and-intel-in-one-productive-demo/"
+},
+{	
+"talk_startseite": null,
+"talks_date":"20.07.2015",
+"talk_title":"Augenhöhe Filmabend mit anschließender Diskussionsrunde",
+"talk_speaker":"In vielen Unterhaltungen wurde uns immer wieder der Film &ldquo;Augenh&ouml;he&rdquo; nahegelegt. Daher m&ouml;chten wir ihn gerne mit Euch zusammen gucken und im Anschluss diskutieren. &bdquo;Augenh&ouml;he&ldquo; ist ein Film &uuml;ber mutige Firmen und Mitarbeiter, die auf Augenh&ouml;he und menschlich zusammenarbeiten - und die Arbeitswelt erfolgreich auf den Kopf stellen. ",
+"talk_speakerhandle":"svenfranke",
+"talk_slideslink":"https://vimeo.com/116873711"
+},
+{	
+"talk_startseite": null,
+"talks_date":"15.06.2015",
+"talk_title":"Bonn.Community",
+"talk_speaker":"Johannes Mirus",
+"talk_speakerhandle":"johannes",
+
+"talk_description":"Johannes Mirus und Sascha Foerster planen eine Community f&uuml;r Bonn und wollen mit uns &ndash; nach einer kurzen Vorstellung der Idee &ndash; gemeinsam diskutieren, was Sie ber&uuml;cksichtigen sollten, was dar&uuml;ber hinaus ganz nett w&auml;re und was Sie auf jeden Fall vermeiden sollten.",
+"talk_description":"<strong>Links zur Vorstellung von Bonn.Community:</strong>",
+"talk:slideslink":"https://docs.google.com/document/d/1FfacxtMvvQhG5RowYR03OW5vGKjSiy2LyT15USRGVLQ/edit?pli=1#heading=h.2oc45c3xi7p"
+},
+{	
+"talk_startseite": null,
+"talks_date":"15.06.2015",
+"talk_title":"Windows 10 Devices",
+"talk_speaker":"Steve 'Chippy' Paine",
+"talk_speakerhandle":"chippy",
+"talk_description":"Chippy bringt mal wieder einige Windows 10 Tablets and Laptops f&uuml;r eine Hands-on Session mit und gibt einen kurzen &Uuml;berblick, was sich zwischenzeitlich getan hat.",
+"talk_slideslink":""
+},
+{	
+"talk_startseite": null,
+"talks_date":"18.05.2015",
+"talk_title":"Elektronische Bürgerbeteiligung - und alles wird gut",
+"talk_speaker":"Dr. Oliver M&auml;rker ",
+"talk_speakerhandle":"omaerker",
+"talk_description":"Dr. Oliver M&auml;rker (Geograph, gesch&auml;ftsf&uuml;hrender Gesellschafter der Agentur Zebralog in Bonn &amp; Berlin) spricht &uuml;ber digitale B&uuml;rgerbeteiligung (E-Partizipation). Anhand von Beispielen erl&auml;utert er Funktionen, M&ouml;glichkeiten und Grenzen der seit rund 15 Jahren genutzten Formen elektronisch unterst&uuml;tzter Beteiligung von B&uuml;rgerinnen und B&uuml;rgern in Planungs- und Entscheidungsprozesse und ordnet sie in die Vielfalt demokratischer Mitwirkungsinstrumente innerhalb der (&uuml;berwiegend repr&auml;sentativ organisierten) Demokratie ein.",
+"talk_slideslink":""
+},
+{	
+"talk_startseite": null,
+"talks_date":"18.05.2015",
+"talk_title":"Der Troll als Ordnungshüter",
+"talk_speaker":"Klaus Kusanowsky ",
+"talk_speakerhandle":"kusanowsky",
+"talk_description":"Das Internet erm&ouml;glicht Kommunikation zwischen Unbekannten, die unter der Voraussetzung mit einander in Kontakt treten, dass die Gr&uuml;nde f&uuml;r die Kontaktaufnahmeversuche nicht so einfach zu ermitteln sind. Dabei handelt es sich um eine realtiv neue Erfahrung, die nach Ma&szlig;gabe der normalen Routinen des Bekannt- und Vertrautwerdens mit Themen, Sachverhalten und Personen nicht so einfach erkl&auml;rt werden kann. Der Grund daf&uuml;r ist, dass das Internet etwas Neues erm&ouml;glicht, das naturgem&auml;&szlig; andere Sichtweisen als bislang erprobte und einge&uuml;bte erfordert. Wenn man erkennen kann, dass dies so ist, zeigt sich, dass Trolle gar nicht sch&auml;dlich sind. Vielmehr haben sie die Funktion auf eben diesen Zusammenhang aufmerksam zu machen.",
+"talk_slideslink":""
+},
+{	
+"talk_startseite": null,
+"talks_date":"20.04.2015",
+"talk_title":"iModeler",
+"talk_speaker":"Hans-Peter Hemmer",
+"talk_speakerhandle":"d3dhemmer",
+"talk_description":"Kollaboratives Mindmapping",
+"talk_slideslink":""
+},
+{	
+"talk_startseite": null,
+"talks_date":"20.04.2015",
+"talk_title":"Smart TVs",
+"talk_speaker":"J&uuml;rgen Vielmeier",
+"talk_speakerhandle":"leidartikel",
+"talk_description":"Warum Smart TVs f&uuml;r Netzmenschen wichtig werden.",
+"talk_slideslink":""
+},
+{	
+"talk_startseite": null,
+"talks_date":"16.03.2015",
+"talk_title":"Open data",
+"talk_speaker":"Stefan Wolfrum ",
+"talk_speakerhandle":"metawops",
+"talk_description":"Wir wollen in Bonn Open Data praktisch nutzen, Anwendungen entwickeln oder Daten visualisieren und damit allen Bonnern einen Mehrwert bieten. Dazu gr&uuml;nden wir gerade im Rahmen des &ldquo;Code for Germany&rdquo; Programms der Open Knowledge Foundation das &ldquo;OK Lab Bonn&rdquo;. Jeder kann mitmachen!",
+"talk_slideslink":""
+},
+{	
+"talk_startseite": null,
+"talks_date":"16.03.2015",
+"talk_title":"1 Jahr Bonner Blogs",
+"talk_speaker":"Sascha F&ouml;rster ",
+"talk_speakerhandle":"Sascha_Foerster",
+"talk_description":"Ganz spontan springt der @Sascha_Foerster heute Abend mit dem Thema '1 Jahr @BonnerBlogs' ein. Wir sind gespannt!",
+"talk_slideslink":""		
+},
+{	
+"talk_startseite": null,
+"talks_date":"09.02.2015",
+"talk_title":"Oculus Rift & Co",
+"talk_speaker":"Jens Arps",
+"talk_speakerhandle":"jensarps",
+"talk_description":"Virtual Reality &ndash; was ist das eigentlich? Was braucht man daf&uuml;r? Kann man das selber machen? Und was um alles in der Welt hat das mit dem Web zu tun? Antworten gibt's in dieser kurzen Einf&uuml;hrung.",
+"talk_slideslink":"https://www.youtube.com/watch?v=IKMwMXSq8qE"
+},
+{	
+"talk_startseite": null,
+"talks_date":"09.02.2015",
+"talk_title":"BarCamp Bonn",
+"talk_speaker":"Johannes Mirus",
+"talk_speakerhandle":"johannes",
+"talk_description":"Am 28. Februar findet das erste BarCamp in Bonn statt. Ich erz&auml;hle, was man dar&uuml;ber wissen muss und versuche in Einzelgespr&auml;chen, alle Webmontag-Teilnehmer zu BarCampern zu machen. ;)",
+"talk_slideslink":"https://www.youtube.com/watch?v=IKMwMXSq8qE"
+},
+{	
+"talk_startseite": null,
+"talks_date":"19.01.2015",
+"talk_title":"SVG",
+"talk_speaker":"Michael Rolfsen ",
+"talk_speakerhandle":"michaelsupdates",
+"talk_description":"SVG vs. Icon-Fonts: Warum SVG besser ist und was man damit alles anstellen kann.",
+"talk_slideslink":"http://www.avaris-webdesign.de/slides-meines-svg-vortrags-beim-webmontag-bonn.html"
+},
+{	
+"talk_startseite": null,
+"talks_date":"19.01.2015",
+"talk_title":"ClojureScript",
+"talk_speaker":"Falko Riemenschneider ",
+"talk_speakerhandle":"friemens",
+"talk_description":"Clojure ist ein modernes Lisp. ClojureScript ist Clojure, das auf JavaScript &uuml;bersetzt wird. Die Features aus Clojure ergeben zusammen mit passenden Bibliotheken ein fortschrittliches Programmiermodell im Browser, das fiesen UI Code handzahm macht.Wir zeigen ein paar Highlights.",
+"talk_slideslink":"http://de.slideshare.net/FalkoRiemenschneider/clojurescript-a-functional-lisp-for-the-browser"
+}
+]
