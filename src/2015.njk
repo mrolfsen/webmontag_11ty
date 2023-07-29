@@ -1,0 +1,14 @@
+---
+layout: _talkstemplate.njk
+date: 2015-01-01
+yeartitle: "2015"
+tags: 
+    - talksNavi
+---
+
+                      
+{% for item in talks2015 %}              
+
+	{% include 'src/_includes/_talk-item.njk' %}
+
+{% endfor %}

@@ -1,0 +1,99 @@
+[
+    {
+    "talk_startseite": null,
+"talk_date":"16.12.2013",
+"talk_title":"Self-monitoring",
+"talk_speaker":"Lina Dillmann",
+"talk_speakerhandle":"LinaDillmann",
+"talk_description": "Lina stellte uns die beliebtesten Apps und Gadgets für Self-monitoring vor. Sie klärte Fragen wie &bdquo;Was gibt es auf dem Markt?&ldquo; &bdquo;Welche Funktionen sind für mich, als Nutzer, wirklich wichtig&ldquo; und &bdquo;Brauche ich so etwas überhaupt?",
+"talk_slideslink":""
+},
+{
+    "talk_startseite": null,
+"talk_date":"16.12.2013",
+"talk_title":"Wie mehrere Entwickler am selben Projekt arbeiten (GIT)",
+"talk_speaker":"Roman Messer",
+"talk_speakerhandle":"RmMsr",
+"talk_description": "Kleine und große Softwareprojekte werden heute von vielen Entwicklern gleichzeitig bearbeitet. Vom internen Prototypen über Betas, Release Candidates bis hin zum Long-Term-Support gibt es unzählige kleine änderungen. Diese werden mit Revision Control Systemen, wie z.B. GIT gemanaged.",
+"talk_slideslink":""
+},
+{
+    "talk_startseite": null,
+"talk_date":"18.11.2013",
+"talk_title":"Emmet",
+"talk_speaker":"Michael Rolfsen",
+"talk_speakerhandle":"michaelsupdates",
+"talk_description": "Durch den krankheitsbedingten Ausfall von Lina, deren Vortrag auf dem kommenden Webmontag nachgeholt wird, ist Michael kurzfristig mit einen Kurzvortrag zu Emmet eingesprungen. Emmet (früher bekannt als Zen-coding) ist ein PlugIn, das den Workflow zur Erstellung von HTML und CSS vereinfacht und massiv beschleunigen kann. Das PlugIn steht für die meisten Editoren / IDE&acute;s zur Verfügung und ist kostenlos.",
+"talk_slideslink":"http://docs.emmet.io/cheat-sheet/"
+},
+{
+    "talk_startseite": null,
+"talk_date":"16.09.2013",
+"talk_title":"Chrome Developer Tools",
+"talk_speaker":"Jens Arps",
+"talk_speakerhandle":"jensarps",
+"talk_description": "Die DevTools von Chrome sind das vielleicht wichtigste Werkzeug in der Webentwicklung &ndash; bieten sie doch eine Fülle von Features. Einige dieser Features sind nicht sehr bekannt, aber trotzdem extrem hilfreich. Der Talk ist ein walk-through durch die DevTools und die wichtigsten must-know Features, die einem das Leben als Webentwickler einfacher machen.",
+"talk_slideslink":""
+},
+{
+    "talk_startseite": null,
+"talk_date":"19.08.2013",
+"talk_title":"Webmontag Biergarten Edition",
+"talk_description":"Fast schon traditionelle August-Biergarten Edition des Webmontag. Schön wars!",
+"talk_slideslink":""
+},
+{
+    "talk_startseite": null,
+"talk_date":"15.07.2013",
+"talk_title":"Tweet Nest",
+"talk_speaker":"Martin Schneider",
+"talk_speakerhandle":"schneyra",
+"talk_description": "Martin Schneider stellt das kleine aber feine Tool 'Tweet Nest' vor. Tweet Nest ist ein durchsuchbares Backup und Archiv all deiner Tweets.",
+"talk_slideslink":"http://slid.es/schneyra/tweet-nest"
+},
+{
+    "talk_startseite": null,
+"talk_date":"15.07.2013",
+"talk_title":"Iron Blogger",
+"talk_speaker":"Johannes Mirus",
+"talk_speakerhandle":"Johannes",
+"talk_description":"Johannes Mirus stellt uns die IronBlogger Community in Bonn vor, ein Zusammenschluss von Bloggern sie sich per 'Gruppendynamik' zum Bloggen motivieren.",
+"talk_slideslink":""
+},
+{
+    "talk_startseite": null,
+"talk_date":"15.04.2013",
+"talk_title":"Letterpress",
+"talk_speaker":"Julian Stehberger",
+"talk_speakerhandle":"STEHBERGER_360",
+"talk_description": "Letterpress: das heisst Back to the Roots und ist sowas von Offline. Julian Stehberger, STEHBERGER.360 berichtet über die Renaissance des beinahe in Vergessenheit geratenen Druckverfahrens und wie Papier als Kommunikationsmittel wieder lebendig wird.",
+"talk_slideslink":""
+},
+{
+    "talk_startseite": null,
+"talk_date":"18.03.2013",
+"talk_title":"Crowdfunding",
+"talk_speaker":"Dennis Schenkel",
+"talk_speakerhandle":"dennisSchenkel",
+"talk_description": "Dennis Schenkel befasst sich schon seit über zwei Jahren beruflich und privat mit dem Thema Crowdfunding und Online-Fundraising. Durch seine Tätigkeiten bei einem der weltgrößten Crowdfunding-Plattformen, Rally.org, konnte er einen tiefen Einblick in die Industrie erlangen. Sein Wissen und seine Faszination nutzt er zur Förderung dieses noch jungen Wirtschaftszweigs und veranstaltet in Köln und Berlin den Crowdfunding &amp; Fundraising Roundtable. Weitere Projekte in dem Bereich sind in Vorbereitung und haben die weitere Professionalisierung der Szene als Ziel.",
+"talk_slideslink":""
+},
+{
+    "talk_startseite": null,
+"talk_date":"18.02.2013",
+"talk_title":"Windows 8 Touch",
+"talk_speaker":"Steve Paine ",
+"talk_speakerhandle":"chippy",
+"talk_description": "Demo Session und anschließende Q&amp;A Gespräch über WIndows 8 Touch auf aktuellen tablet devices und ultrabooks.",
+"talk_slideslink":""
+},
+{
+    "talk_startseite": null,
+"talk_date":"21.01.2013",
+"talk_title":"NFC but no payment",
+"talk_speaker":"Stephan Helbig ",
+"talk_speakerhandle":"istylr",
+"talk_description": "NFC ist für viele der nächste Trend im Mobile Business und eng verbunden mit dem Thema Bezahlen. <br />Dabei sind gerade dort die größten Hürden zu erwarten, da das Erneuern der Kasseninfrastruktur hohe Investitionen erfordert.<br />NFC bietet aber weitaus mehr Möglichkeiten als das reine Bezahlen. Hierzu soll ein kleiner überblick über lokale Möglichkeiten<br />des Mobile Marketing mit NFC und QR Codes aus Technik- und Marketingsicht gegeben werden.",
+"talk_slideslink":""
+}
+]
