@@ -30,13 +30,15 @@ In der Regel findet der Webmontag am DRITTER MONTAG IM MONAT abends um 19 UHR im
 
 <li><svg class="largeIcon"> <use xlink:href="#icon-talk"> &nbsp; </use> </svg>
 
-## Biergarten Edition
-Im {{ nextMonth }} treffen wir uns wieder zur Biergarten-Edition um 19:00 Uhr im **Biergarten am alten Zoll** bei Essen und Getränken zum entspannten Netzwerken und Nerd-Talken.
-## "Web-Stammtisch im Biergarten"
+## Gadget-Night im Biergarten
+Im {{ nextMonth }} treffen wir uns wieder zur Gadget-Night im Biergarten um 19:00 Uhr im **Biergarten am alten Zoll** bei Essen und Getränken zum entspannten Netzwerken und Nerd-Talken. 
+
+Bringt Euer liebstes Gadget mit! 
+
+Alternativ-Location bei Regen geben wir frühzeitig bekannt.
 Kontakt: Lina Dillmann  
 [welcome@wmbn.de](mailto:welcome@wmbn.de)
 
 </li>
 
 {% endblock %}
-
