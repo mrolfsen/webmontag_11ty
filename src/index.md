@@ -24,17 +24,32 @@ In der Regel findet der Webmontag am DRITTER MONTAG IM MONAT abends um 19 UHR im
 {% endblock %}
 
 
+
+
+
 {% block firsttalk %}
+    {% for item in talks2020 %}              
+        {% if (item.talk_startseite === 1)  %} 
+            {% include 'src/_includes/_talk-start-item.njk' %}
+        {% else %}
+            Boff! 1
+        {% endif %}        
+    {% endfor %}    
+{% endblock %}
 
-<li><svg class="largeIcon"> <use xlink:href="#icon-talk"> &nbsp; </use> </svg>
 
-## Biergarten Edition
-Im {{ nextMonth }} treffen wir uns wieder zur Biergarten-Edition um 19:00 Uhr im **Biergarten am alten Zoll** bei Essen und Getränken zum entspannten Netzwerken und Nerd-Talken.
-## "Web-Stammtisch im Biergarten"
-Kontakt: Lina Dillmann  
-[welcome@wmbn.de](mailto:welcome@wmbn.de)
+<!-- Das hier klappt noch nicht -->
 
-</li>
+{% block secondtalk %}
+    
+    {% for item in talks2020 %}
+        {% if item.talk_startseite %}
+            {% for by, single in item.talk_startseite %}
+                {% include 'src/_includes/_talk-start-item.njk' %}
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
 
 {% endblock %}
 
+ 

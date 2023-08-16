@@ -7,6 +7,9 @@ const sitemap = require("@quasibit/eleventy-plugin-sitemap");
 
 module.exports = function(eleventyConfig) {
 
+  // limit the amount of slides in sliders
+  eleventyConfig.addNunjucksFilter("limit", (arr, limit) => arr.slice(0, limit));
+
    
   // Copy `js/` to `_site/js`
   eleventyConfig.addPassthroughCopy("FrontEnd/wmbn/js");

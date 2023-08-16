@@ -9,7 +9,7 @@
     "talk_slideslink": "https://slides.com/nikitamalyschkin/deck-dea9f3#/"
   },
   {
-    "talk_startseite": null,
+    "talk_startseite": 1,
     "talk_date": "20.01.2020",
     "talk_title": "Shadow DOM: Runter von meinem Rasen!",
     "talk_description": "Für Backend-Entwickler ist HTML immer wieder ein Albtraum: Seien es externe Libraries, seien es benutzerdefiniertes CSS: Hat jemand einmal den Fuss in der Tür, ist die Webseite schutzlos ausgeliefert. Das DOM wird nach Belieben manipuliert, das CSS wird invalide oder koppelt sich mit Elementen die dafür nie vorgesehen waren. Mit Shadow DOM steht jetzt ein neues Werkzeug vor der Tür, das die Kapselung von Elementen ins Frontend bringen soll. Wir schauen uns an wie scharf das Schwert ist, was es heute schon kann und wie die Perspektiven aussehen.",

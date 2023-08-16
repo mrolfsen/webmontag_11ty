@@ -1,0 +1,17 @@
+.talk-item {
+    margin-bottom:1em;
+    display:flex;
+
+
+    &__date {
+        background:black;
+        border-radius:400px;
+        height:2em;
+        color:white;
+    }
+    &__description {
+        padding:1em;
+        background:white;
+        border-radius:2em;
+    }
+}
