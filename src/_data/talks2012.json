@@ -1,7 +1,7 @@
 [
     {
 "talk_startseite":null,		
-"talk_date":"17.12.2012",
+"talk_date":"2012-12-17",
 "talk_title":"Advents-Bier-Edition",
 "talk_speaker":"keine Talks",
 "talk_description":"An diesem letzten Webmontag des Jahres trafen wir uns in gewohnt gut gelaunter und gemütlicher Runde zu einem vorweihnachtlichen Bier.",
@@ -9,14 +9,14 @@
 },
 {
 "talk_startseite":null,	
-"talk_date":"19.11.2012",
+"talk_date":"2012-11-19",
 "talk_title":"Kampfstern Privatica: Warum Datenschutz mit der Brechstange nicht funktioniert",
 "talk_speaker":"Jochim Sel",
 "talk_slideslink":""
 },
 {
 "talk_startseite":null,	
-"talk_date":"15.10.2012",
+"talk_date":"2012-10-15",
 "talk_title":"WordPress im Jahr 2012, unbegrenzte Möglichkeiten",
 "talk_speaker":"Nicky Arps",
 "talk_description":"WordPress hat sich schon lange davon gelöst ein reines Blogsystem zu sein und ist heute nicht nur das meistgenuzte CMS sondern wird immer mehr auch als 'Framework' für Projekte ganz anderer Dimensionen eingesetzt. Ich will in dem Vortrag zeigen wo WordPress heute eigentlich steht, welche Vorteile und Möglichkeiten es bietet und wie man aus WordPress eine iPad-Webapp oder einen Immobilienportal bauen kann.",
@@ -24,7 +24,7 @@
 },
 {
 "talk_startseite":null,	
-"talk_date":"17.09.2012",
+"talk_date":"2012-09-17",
 "talk_title":"3D-Webgames mit Unity",
 "talk_speaker":"Christoph Wick",
 "talk_description":"Der erste Vortrag ist '3D-Webgames mit Unity' von Christoph Wick. Unity ist eine Game-Engine für u.a. für Mac, PC, Flash und Mobile (iOS und Android). Der Vortrag stellt die Funktionen der IDE vor, vergleicht sie mit anderen 3D-Technologien und zeigt anhand der Entwicklung eines kleines Rennwagen-Spiels, wie Unity in der Praxis verwendet wird. Eine kurze Übersicht über die Vermarktungsmöglichkeiten von Casual Games runden den Vortrag ab.",
@@ -32,7 +32,7 @@
 },
 {
 "talk_startseite":null,	
-"talk_date":"17.09.2012",
+"talk_date":"2012-09-17",
 "talk_title":"SEO als Content-Strategie: Der beste Link ist der, den man nicht bauen muss",
 "talk_speaker":"Sven Giese",
 "talk_description":"Mit der Einführung der Panda- und Penguin-Updates hat Google die SEO-Branche in ihren Grundfesten erschüttert. Quasi über Nacht strafte die Suchmaschine zahlreiche Websites ab und verbannte sie teilweise komplett aus ihrem Index. Die Begründung für dieses Vorgehen: Qualitätssteigerung der Suchergebnisse. Guter Content und natürliche Backlink-Profile sollen durch gute Rankings 'belohnt' werden. Ob dies in der Praxis gelungen ist, muss in vielen Fällen bezweifelt werden, Fakt aber ist, dass ein Großteil bewährter SEO-Maßnahmen durch diese Updates wirkungslos, u.U. sogar gefährlich geworden sind. Gerade der Bereich des Offpage-SEO (Linkbuilding/Linkaufbau) steht hier vor einer großen Herausforderung, denn wie kann Linkaufbau unter diesen Voraussetzungen noch funktionieren? Das Zauberwort lautet: 'Content-Strategie' bzw. 'Content is King'. Keine neue Erkenntnis, aber im Gegensatz zu den USA scheint die deutsche SEO-Branche hier noch am Anfang zu stehen. Mit diesem Vortrag sollen einige dieser strategischen Ansätze vorgestellt und diskutiert werden.",
@@ -40,14 +40,14 @@
 },
 {
 "talk_startseite":null,	
-"talk_date":"20.08.2012",
+"talk_date":"2012-08-20",
 "talk_title":"Webmontag Biergarten Edition",
 "talk_description":"Gespräch in größerer Runde als gedacht, im Biergarten 'Alter Zoll'",
 "talk_slideslink":""
 },
 {
 "talk_startseite":null,	
-"talk_date":"16.07.2012",
+"talk_date":"2012-07-16",
 "talk_title":"Communities – kann man damit Geld verdienen?",
 "talk_speaker":"Andreas Jürgensen",
 "talk_description":"Spontaner Vortrag von Andreas Jürgensen: Mit dem Titel 'Communities – kann man damit Geld verdienen?&rdquo; griff er ein wirtschaftliches Thema auf, das einigen so nicht präsent war. Am Beispiel des von ihm betriebenen Leica-Forums zeigte er auf, dass sich auch neben Facebook &amp; Co. interessante Ertragsmöglichkeiten bieten. Dabei erläuterte er transparent seine Vorgehensweise beim Aufbau, bei der Optimierung und bei der Entwicklung weiterer Marktchancen. Somit stand zwar kein technisches Thema im Mittelpunkt des Webmontags, dennoch aber eines, dass ein Kernthema in der Onlinekommunikation bildet. Besonders bedanken wir uns, dass er uns im kleinen Kreis einen Einblick in die bevorstehende Weiterentwicklung dieses Geschäftsbereiches gegeben hat und im Anschluß geduldig Rede und Antwort stand.",
@@ -55,7 +55,7 @@
 },
 {
 "talk_startseite":null,	
-"talk_date":"18.06.2012",
+"talk_date":"2012-06-18",
 "talk_title":"PhoneGap & GWT oder warum mobile Apps sterben müssen",
 "talk_speaker":"Daniel Kurka",
 "talk_speakerhandle":"dankurka",
@@ -64,7 +64,7 @@
 },
 {
 "talk_startseite":null,	
-"talk_date":"21.05.2012",
+"talk_date":"2012-05-21",
 "talk_title":"WebGL – ein Überblick + 1 Jahr Webmontag",
 "talk_speaker":"Jens Arps",
 "talk_speakerhandle":"jensarps",
@@ -73,7 +73,7 @@
 },
 {
 "talk_startseite":null,	
-"talk_date":"19.03.2012",
+"talk_date":"2012-03-19",
 "talk_title":"Textoptimierung im Web",
 "talk_speaker":"Yvonne Grünenwald",
 "talk_description":"An verscheidenden Textbeispielen beantwortete sie zunächst die Fragen: 'Wird der Nutzen für den Leser klar? Passt es zum roten Faden?' Im weiteren ging sie auf die fünf Textsünden, Geschwätzigkeit, Selbstverständlich, Floskeln, Ausrufezeichen und Arroganz ein. Bevor die Frage- und Diskussionsrunde eingeleitet wurde, erläuterte sie uns die vier Textverstärker 'Sag es Positiv&rdquo;, 'Bilder im Kopf entstehen lassen&rdquo;, 'Texte mit Leben füllen' und 'Emotionen haben Vorfahrt'.",
@@ -81,7 +81,7 @@
 },
 {
 "talk_startseite":null,	
-"talk_date":"19.03.2012",
+"talk_date":"2012-03-19",
 "talk_title":"Adobe Day & Omniture",
 "talk_speaker":"Thomas Lang",
 "talk_speakerhandle":"thomaslang",
@@ -90,7 +90,7 @@
 },
 {
 "talk_startseite":null,	
-"talk_date":"16.01.2012",
+"talk_date":"2012-01-16",
 "talk_title":"Online Magazine - Eine Marktübersicht",
 "talk_speaker":"Lina Dillmann",
 "talk_description":"Lina stellte zunächst Print- und Online-Magazine gegenüber, bevor sie uns im Weiteren anhand von bereits existierenden Online-Magazinen die aktuelle Marktsituation genauer erläuterte. Lina legte dabei besonderes Augenmerk auf die Unterschiede in der Handhabung auf Tablet-PCs. Zum Abschluss gab sie uns noch einen kurzen Einblick in die Art und Weise wie Online-Magazine umgesetzt werden können.",
@@ -98,7 +98,7 @@
 },
 {
 "talk_startseite":null,	
-"talk_date":"16.01.2012",
+"talk_date":"2012-01-16",
 "talk_title":"Less – The dynamic stylesheet language",
 "talk_speaker":"Michael Rolfsen",
 "talk_speakerhandle":"michaelsupdates",

@@ -1,146 +1,146 @@
 [
  {
    "talk_startseite": null,
-"talk_date": "20.11.2017",
+"talk_date": "2017-11-20",
 "talk_title": "Tech-Aktien & ihr Einfluß auf unser tägliches Leben",
 "talk_description": "Wir googlen, skypen, facebooken. Wir sind always on. Es gibt Leute, die ohne ihr Smartphone nirgendwo hingehen. Welche Firmen stecken eigentlich hinter den Produkten & Apps? Was sind das für Läden, die so großen Einfluß auf unser Leben haben? Sabine stellt euch einige Tech-Unternehmen vor, die unseren Alltag bestimmen. Aus Sicht einer AktionärIn.",
 "talk_speaker": "Sabine Roeltgen",
-"talk_speakerhandle": "@SabineRoeltgen",
+"talk_speakerhandle": "SabineRoeltgen",
 "talk_slideslink": ""
 },
  {
    "talk_startseite": null,
-"talk_date": "18.09.2017",
+"talk_date": "2017-09-18",
 "talk_title": "Achtsamkeit am Arbeitsplatz",
 "talk_description": "Nicole stellt Euch einige Tipps zum Thema 'Achtsamkeit am Arbeitsplatz' vor. Seit 2015 integriert sie die Praxis der Achtsamkeit in ihr Leben und ihre Arbeitsweise, sie schafft somit eine Arbeitsatmosphäre auf Augenhöhe.",
 "talk_speaker": "Nicole Ness",
-"talk_speakerhandle": "@achtsamesdesign",
+"talk_speakerhandle": "achtsamesdesign",
 "talk_slideslink": ""
 },
  {
    "talk_startseite": null,
-"talk_date": "18.09.2017",
+"talk_date": "2017-09-18",
 "talk_title": "How to not suck at github",
 "talk_description": "Was ist eigentlich dieses GitHub? Ein Einblick in eine etwas andere Community und die Anleitung zur Unterstützung freier Software-Projekte.",
 "talk_speaker": "Sebastian Muszynski ",
-"talk_speakerhandle": "@syssi84",
+"talk_speakerhandle": "syssi84",
 "talk_slidelink": "/files/pdfs/github.pdf"
 },
  {
    "talk_startseite": null,
-"talk_date": "17.07.2017",
+"talk_date": "2017-07-17",
 "talk_title": "Heimautomation mit Home Assistant",
 "talk_description": "Sebastian stellt uns eine Plattform vor die es schafft, einem riesigen und chaotischen Ökosystem, dem Internet der Dinge, Sinn und Verstand zu geben.",
 "talk_speaker": "Sebastian Muszynski ",
-"talk_speakerhandle": "@syssi84",
+"talk_speakerhandle": "syssi84",
 "talk_slidelink": "/files/pdfs/homeassistant.pdf"
 },
  {
    "talk_startseite": null,
-"talk_date": "17.07.2017",
+"talk_date": "2017-07-17",
 "talk_title": "Gesundheitsgefahren für Webdesigner/developer",
 "talk_description": "Daniel und Sergej von Salutra und X-PHYSIO werden zum Thema Gesundheitsgefahren für Webdesigner und Programmierer sowie Smartphone und Tabletuser im Allgemeinen vortragen. Natürlich mit Tipps zur Prävention.",
 "talk_speaker": "Daniel Wegen und Sergej Borkenhagen",
-"talk_speakerhandle": "@physioxschool / @salutraphysio",
+"talk_speakerhandle": "physioxschool / salutraphysio",
 "talk_slidelink": "/files/pdfs/gesundheit-slides.pdf"
 },
  {
    "talk_startseite": null,
-"talk_date": "19.06.2017",
+"talk_date": "2017-06-19",
 "talk_title": "Mastodon",
 "talk_description": "Im Juni wird uns Johannes Mirus Mastodon vorstellen – einen freier, quelloffenen sozialer Netzwerkserver. Als dezentralisierte Alternative zu kommerziellen Plattformen verhindert es die Risiken, die entstehen, wenn eine einzelne Firma deine Kommunikation monopolisiert.",
 "talk_speaker": "Johannes Mirus",
-"talk_speakerhandle": "@Johannes",
+"talk_speakerhandle": "Johannes",
 "talk_slideslink": ""
 },
  {
    "talk_startseite": null,
-"talk_date": "19.06.2017",
+"talk_date": "2017-06-19",
 "talk_title": "Native Advertising",
 "talk_description": "Native Advertising in der Grauzone zwischen Schleichwerbung und Trennungsgebot - Müssen Native Ads gekennzeichnet werden?",
 "talk_speaker": "Jérôme Lefèvre",
-"talk_speakerhandle": "@jlefevrebonn",
+"talk_speakerhandle": "jlefevrebonn",
 "talk_slideslink": ""
 },
  {
    "talk_startseite": null,
-"talk_date": "15.05.2017",
+"talk_date": "2017-05-15",
 "talk_title": "Nintendo Switch",
 "talk_description": "Im Mai hat uns Benjamin Helsper das neue Nintendo switch näher gebracht – und neben der Hardware beeindruckende Einblicke in das neue 'Zelda' gewährt.",
 "talk_speaker": "Benjamin Helsper",
-"talk_speakerhandle": "@klausebou",
+"talk_speakerhandle": "klausebou",
 "talk_slideslink": ""
 },
  {
    "talk_startseite": null,
-"talk_date": "24.04.2017",
+"talk_date": "2017-04-24",
 "talk_title": "trackle",
 "talk_description": "trackle ist ein Temperatursensor, der Frauen dabei hilft, ihre fruchtbaren Tage zu bestimmen.",
 "talk_speaker": "Katrin Reuter",
-"talk_speakerhandle": "@frau_ratte",
+"talk_speakerhandle": "frau_ratte",
 "talk_slideslink": ""
 },
  {
    "talk_startseite": null,
-"talk_date": "24.04.2017",
+"talk_date": "2017-04-24",
 "talk_title": "Einfach barrierefrei",
 "talk_description": "Ihr glaubt, eine barrierefreie Website ist teuer, kompliziert und unattraktiv? Domingos zeigt in seiner Session, dass das nicht so sein muss.",
 "talk_speaker": "Domingos de Oliveira",
-"talk_speakerhandle": "@domingos2",
+"talk_speakerhandle": "domingos2",
 "talk_slideslink": ""
 },
  {
    "talk_startseite": null,
-"talk_date": "20.03.2017",
+"talk_date": "2017-03-20",
 "talk_title": "Agile",
 "talk_description": "David stellt uns die Grundlagen von Agile im Allgemeinen, und von Scrum in Spezielle kurz vor.",
 "talk_speaker": "David Schmithüsen",
-"talk_speakerhandle": "@schmithu",
+"talk_speakerhandle": "schmithu",
 "talk_slideslink": ""
 },
  {
    "talk_startseite": null,
-"talk_date": "20.03.2017",
+"talk_date": "2017-03-20",
 "talk_title": "Digitale Nomaden",
 "talk_description": "Als Waltzing Meurers sind sie als Digitale Nomaden unterwegs, um für Hotels, Destinationen oder touristische Unternehmen hochwertigen Content zu erstellen. Achim Meurer ist gelernter Fotograf und Monika Meurer macht twitter-Reportagen, blogged und füllt diverse Social Media Kanäle. Sie erzählen über ihr Nomadentum und beantworten Fragen.",
 "talk_speaker": "Monika & Achim Meurer",
-"talk_speakerhandle": "@waltzingmeurers",
+"talk_speakerhandle": "waltzingmeurers",
 "talk_slideslink": ""
 },
  {
    "talk_startseite": null,
-"talk_date": "20.02.2017",
+"talk_date": "2017-02-20",
 "talk_title": "Two-factor Authentification",
 "talk_description": "Am nächsten Webmontag möchte ich euch TWO FACTOR AUTHENTICATION zeigen. Wieso mir das wichtig ist. Wie man das macht, ohne viele Kosten zu produzieren und keinen Usability GAU produziert.",
 "talk_speaker": "Thomas Lang",
-"talk_speakerhandle": "@thomaslang",
+"talk_speakerhandle": "thomaslang",
 "talk_slideslink": ""
 },
  {
    "talk_startseite": null,
-"talk_date": "20.02.2017",
+"talk_date": "2017-02-20",
 "talk_title": "Visuelle Kommunikation mit Instagram",
 "talk_description": "Instagram gehört für viele Menschen inzwischen zum Social-Media-Alltag. Auch für Unternehmen ist die Plattform attraktiv: eine hohe Interaktionsrate, effiziente Kundenbindung, und das Erreichen neuer Zielgruppen (unter anderem junges Publikum) sind nur einige der Vorzüge.",
 "talk_speaker": "Michele Lichte",
-"talk_speakerhandle": "@lichtemomente",
+"talk_speakerhandle": "lichtemomente",
 "talk_slideslink": ""
 },
  {
    "talk_startseite": null,
-"talk_date": "16.01.2017",
+"talk_date": "2017-01-16",
 "talk_title": "Via Online-Bewerbung zum (Traum)Job",
 "talk_description": "Wir leben modern und digital, warum bewerben wir uns immer noch mit einem Bewerbungsschema von vor 50 Jahren? Wir wollen uns beruflich entfalten, eine Work-Life-Balance haben – und machen doch zu viele Kompromisse. Ich erzähle Euch, wie ich mich online erfolgreich für einen neuen Job beworben habe, wie man die sozialen Netzwerke sinnvoll dafür nutzt und wie auch Ihr so zu eurer Traumstelle findet könnt.",
 "talk_speaker": "Christiane Tänzer",
-"talk_speakerhandle": "@lemontonic21",
+"talk_speakerhandle": "lemontonic21",
 "talk_slideslink": ""
 },
  {
    "talk_startseite": null,
-"talk_date": "16.01.2017",
+"talk_date": "2017-01-16",
 "talk_title": "Faktor Mensch - Design-Konsequenzen aus der Human Factors Forschung",
 "talk_description": "Usability heißt, Software menschengerecht zu gestalten. Aber was heißt 'menschengerecht'? Was macht Menschen aus? In diesem Vortrag mache ich einen Ausflug in die Human Factors Forschung und zeige am praktischen Beispiel, was wir über Menschen wissen - von Denken und Wahrnehmung über Fehler und Stress, bis zur Kooperation im Team und soziale Hierarchien - und welche Auswirkungen dies hat auf die Gestaltung von Mensch-Maschine-Schnittstellen.",
 "talk_speaker": "Monika Gillessen",
-"talk_speakerhandle": "@mgillessen",
+"talk_speakerhandle": "mgillessen",
 "talk_slideslink": ""
  }
 ]

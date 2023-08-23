@@ -11,7 +11,7 @@
             <div class="date">
                 <p class="date__headline">N&auml;chster Termin </p>
                 <div class="date__date">
-                <h4>{{ nextDate }}</h4> {%- include 'src/_includes/_meetup-button.njk' %}
+                <h4>{{ date | date('dd.LL.yyyy') }}</h4> {%- include 'src/_includes/_meetup-button.njk' %}
                 </div>
             </div>
                 {% block wannwo %} 
@@ -27,7 +27,7 @@
         <article>
             <br />
             <section class="clearfix" id="teaser">
-                <h1>Talks in {{ nextMonth }}</h1>
+                <h1>Talks im {{ date | date('LLLL') }} </h1>
                 
 
 {% block firsttalk %} 

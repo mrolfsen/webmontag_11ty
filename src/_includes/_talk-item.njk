@@ -1,6 +1,7 @@
 <div class="talk-item">    
     <div class="talk-item__date">
-        {{ item.talk_date }}
+        <span class="talk-item__date__day">{{ item.talk_date | date('dd') }}</span>
+        <span class="talk-item__date__month">{{ item.talk_date | date('LLL') }}</span>
     </div>
 
     <div class="talk-item__description">

@@ -1,13 +1,36 @@
 .talk-item {
     margin-bottom:1em;
     display:flex;
-
+    align-items: flex-start;
+    gap:.6em;
 
     &__date {
         background:black;
         border-radius:400px;
-        height:2em;
+        aspect-ratio:1;
         color:white;
+        display:flex;
+        flex-direction:column;
+        align-items: center;
+        justify-content: center;
+        padding:.2em;
+
+        &__day {
+            font-size: 1.8rem;
+            padding: 0 0.4em;
+            font-weight: 500;
+            line-height: 1;
+
+        }
+        &__month {
+            font-size:.6rem;
+            padding: 0 0.4em;
+            font-weight: 500;
+            line-height: 1;
+
+        }
+
+
     }
     &__description {
         padding:1em;

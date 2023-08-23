@@ -7,6 +7,10 @@ const sitemap = require("@quasibit/eleventy-plugin-sitemap");
 
 module.exports = function(eleventyConfig) {
 
+
+  // filter fpr Dates of the talks:
+  eleventyConfig.addFilter("date", require("./src/filters/date.js"));
+
   // limit the amount of slides in sliders
   eleventyConfig.addNunjucksFilter("limit", (arr, limit) => arr.slice(0, limit));
 

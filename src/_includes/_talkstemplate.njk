@@ -4,17 +4,16 @@ layout: _sitetemplate.njk
 
 <section id="headline" class="green">
     <div class="centered">
-        <h1>Talks
-            <nav class="talks-years">
-                <ul id="v_nav">
-                    {%- for post in collections.talksNavi | reverse -%}
-                        <li {% if page.url == post.url %} class="active" {% endif %}>
-                            <a href="{{ post.url }}">{{ post.data.yeartitle }}</a>
-                        </li>
-                    {%- endfor -%}
-                </ul>
-            </nav>
-        </h1>
+        <h1>Talks</h1>
+        <nav class="talks-years">
+            <ul id="v_nav">
+                {%- for post in collections.talksNavi | reverse -%}
+                    <li {% if page.url == post.url %} class="active" {% endif %}>
+                        <a href="{{ post.url }}">{{ post.data.yeartitle }}</a>
+                    </li>
+                {%- endfor -%}
+            </ul>
+        </nav>
     </div>
 </section>
 

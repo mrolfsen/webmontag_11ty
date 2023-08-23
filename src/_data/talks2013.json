@@ -1,7 +1,7 @@
 [
     {
     "talk_startseite": null,
-"talk_date":"16.12.2013",
+"talk_date":"2013-12-16",
 "talk_title":"Self-monitoring",
 "talk_speaker":"Lina Dillmann",
 "talk_speakerhandle":"LinaDillmann",
@@ -10,25 +10,25 @@
 },
 {
     "talk_startseite": null,
-"talk_date":"16.12.2013",
+"talk_date":"2013-12-16",
 "talk_title":"Wie mehrere Entwickler am selben Projekt arbeiten (GIT)",
 "talk_speaker":"Roman Messer",
 "talk_speakerhandle":"RmMsr",
-"talk_description": "Kleine und große Softwareprojekte werden heute von vielen Entwicklern gleichzeitig bearbeitet. Vom internen Prototypen über Betas, Release Candidates bis hin zum Long-Term-Support gibt es unzählige kleine änderungen. Diese werden mit Revision Control Systemen, wie z.B. GIT gemanaged.",
+"talk_description": "Kleine und große Softwareprojekte werden heute von vielen Entwicklern gleichzeitig bearbeitet. Vom internen Prototypen über Betas, Release Candidates bis hin zum Long-Term-Support gibt es unzählige kleine Änderungen. Diese werden mit Revision Control Systemen, wie z.B. GIT gemanaged.",
 "talk_slideslink":""
 },
 {
     "talk_startseite": null,
-"talk_date":"18.11.2013",
+"talk_date":"2013-11-18",
 "talk_title":"Emmet",
 "talk_speaker":"Michael Rolfsen",
 "talk_speakerhandle":"michaelsupdates",
-"talk_description": "Durch den krankheitsbedingten Ausfall von Lina, deren Vortrag auf dem kommenden Webmontag nachgeholt wird, ist Michael kurzfristig mit einen Kurzvortrag zu Emmet eingesprungen. Emmet (früher bekannt als Zen-coding) ist ein PlugIn, das den Workflow zur Erstellung von HTML und CSS vereinfacht und massiv beschleunigen kann. Das PlugIn steht für die meisten Editoren / IDE&acute;s zur Verfügung und ist kostenlos.",
+"talk_description": "Durch den krankheitsbedingten Ausfall von Lina, deren Vortrag auf dem kommenden Webmontag nachgeholt wird, ist Michael kurzfristig mit einen Kurzvortrag zu Emmet eingesprungen. Emmet (früher bekannt als Zen-coding) ist ein PlugIn, das den Workflow zur Erstellung von HTML und CSS vereinfacht und massiv beschleunigen kann. Das PlugIn steht für die meisten Editoren / IDEs zur Verfügung und ist kostenlos.",
 "talk_slideslink":"http://docs.emmet.io/cheat-sheet/"
 },
 {
     "talk_startseite": null,
-"talk_date":"16.09.2013",
+"talk_date":"2013-09-16",
 "talk_title":"Chrome Developer Tools",
 "talk_speaker":"Jens Arps",
 "talk_speakerhandle":"jensarps",
@@ -37,14 +37,14 @@
 },
 {
     "talk_startseite": null,
-"talk_date":"19.08.2013",
+"talk_date":"2013-08-19",
 "talk_title":"Webmontag Biergarten Edition",
 "talk_description":"Fast schon traditionelle August-Biergarten Edition des Webmontag. Schön wars!",
 "talk_slideslink":""
 },
 {
     "talk_startseite": null,
-"talk_date":"15.07.2013",
+"talk_date":"2013-07-15",
 "talk_title":"Tweet Nest",
 "talk_speaker":"Martin Schneider",
 "talk_speakerhandle":"schneyra",
@@ -53,7 +53,7 @@
 },
 {
     "talk_startseite": null,
-"talk_date":"15.07.2013",
+"talk_date":"2013-07-15",
 "talk_title":"Iron Blogger",
 "talk_speaker":"Johannes Mirus",
 "talk_speakerhandle":"Johannes",
@@ -62,7 +62,7 @@
 },
 {
     "talk_startseite": null,
-"talk_date":"15.04.2013",
+"talk_date":"2013-04-15",
 "talk_title":"Letterpress",
 "talk_speaker":"Julian Stehberger",
 "talk_speakerhandle":"STEHBERGER_360",
@@ -71,7 +71,7 @@
 },
 {
     "talk_startseite": null,
-"talk_date":"18.03.2013",
+"talk_date":"2013-03-18",
 "talk_title":"Crowdfunding",
 "talk_speaker":"Dennis Schenkel",
 "talk_speakerhandle":"dennisSchenkel",
@@ -80,7 +80,7 @@
 },
 {
     "talk_startseite": null,
-"talk_date":"18.02.2013",
+"talk_date":"2013-02-18",
 "talk_title":"Windows 8 Touch",
 "talk_speaker":"Steve Paine ",
 "talk_speakerhandle":"chippy",
@@ -89,7 +89,7 @@
 },
 {
     "talk_startseite": null,
-"talk_date":"21.01.2013",
+"talk_date":"2013-01-21",
 "talk_title":"NFC but no payment",
 "talk_speaker":"Stephan Helbig ",
 "talk_speakerhandle":"istylr",

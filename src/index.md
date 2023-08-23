@@ -2,9 +2,8 @@
 title: "Home"
 layout: "_sitetemplate"
 bodyClass: "start"
-date: 2019-01-01
-nextDate: "17.07.2023"
-nextMonth: "Juli"
+date: "2023-09-18"
+
 ---
 
 {% extends "_starttemplate.njk" %}
@@ -26,28 +25,27 @@ In der Regel findet der Webmontag am DRITTER MONTAG IM MONAT abends um 19 UHR im
 
 
 
-
 {% block firsttalk %}
     {% for item in talks2020 %}              
         {% if (item.talk_startseite === 1)  %} 
             {% include 'src/_includes/_talk-start-item.njk' %}
         {% else %}
-            Boff! 1
+            Boffii! 1
         {% endif %}        
     {% endfor %}    
-{% endblock %}
 
+{% endblock %}
 
 <!-- Das hier klappt noch nicht -->
 
 {% block secondtalk %}
     
     {% for item in talks2020 %}
-        {% if item.talk_startseite %}
-            {% for by, single in item.talk_startseite %}
-                {% include 'src/_includes/_talk-start-item.njk' %}
-            {% endfor %}
-        {% endif %}
+        {% if (item.talk_startseite === 2)  %} 
+            {% include 'src/_includes/_talk-start-item.njk' %}
+        {% else %}
+            Boffllll! 2
+        {% endif %}        
     {% endfor %}
 
 {% endblock %}
