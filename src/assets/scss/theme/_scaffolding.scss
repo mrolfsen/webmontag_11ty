@@ -4,3 +4,81 @@ body {
     background-size: cover;
 
 }
+
+// grid style element scaffolding
+// the idea is to get rid of the BS-grid altogether
+
+:root {
+    --min-margin: 15px;
+}
+
+// new full-bleed-grid 
+
+.le-grid {
+    //width: 100%;
+    padding-right: var(--min-margin);
+    padding-left: var(--min-margin);
+    margin-right: auto;
+    margin-left: auto;
+
+    >* {
+        grid-column: 2 / 14;
+    }
+
+
+    .text-item {
+        padding-top:2em;
+        grid-column: 2 / 5;
+        grid-row: 1;
+    }
+
+    .full-bleed {  
+        grid-column: 6 / -1;
+        grid-row: 1;
+
+        &> * {
+        display:block;
+        } 
+        &> * + * {
+        margin-top:2em;
+        } 
+    }
+
+    &--reverse {
+        .text-item {
+        grid-column: 11 / 14;
+        grid-row: 1;
+        }
+        .full-bleed {
+        grid-column: 1 / 10;
+        grid-row: 1;
+        }
+    }
+    @media (min-width: 576px) {
+    
+       
+      //max-width: 540px;
+    }
+    @media (min-width: 768px) {
+      max-width:none;
+      //max-width: 720px;
+      padding-right: 0;
+      padding-left: 0;
+    
+      display: grid;
+      gap:1.5em;
+      grid-template-columns:
+  
+        minmax( clamp(var(--min-margin), 7vw, 50%), calc( 50vw - 52rem ))
+        repeat( 12, 1fr )
+        minmax( clamp(var(--min-margin), 7vw, 50%), calc( 50vw - 52rem ));
+    
+    }
+}
+  
+  
+// basically a utility class:
+
+.no-gap {
+    gap:0;
+}

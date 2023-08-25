@@ -1,34 +1,30 @@
 
 <section id="" class="green">
-    <div class="centered">
-        <div class="row-fluid">
-            <div class="span8"><button>Info</button>
-                <div class="introduction">
-                    {% block einleitung %} 
-                    {% endblock %}
-                </div>
-            </div>
-            <div class="date">
-                <p class="date__headline">N&auml;chster Termin </p>
-                <div class="date__date">
-                <h4>{{ date | date('dd.LL.yyyy') }}</h4> {%- include 'src/_includes/_meetup-button.njk' %}
-                </div>
-            </div>
-                {% block wannwo %} 
-                {% endblock %}
-            </div>
+    
+    <div class="introduction">
+        {% block einleitung %} 
+        {% endblock %}
+    </div>
+
+    <div class="date">
+        <p class="date__headline">N&auml;chster Termin </p>
+        <div class="date__date">
+            <h4>{{ date | date('dd.LL.yyyy') }}</h4> {%- include 'src/_includes/_meetup-button.njk' %}
         </div>
     </div>
-</div>
+    <div class="location">
+        {% block wannwo %} 
+        {% endblock %}
+    </div>
+    
 </section>
 
 <div id="main" role="main">
-    <div id="content">
-        <article>
-            <br />
-            <section class="clearfix" id="teaser">
-                <h1>Talks im {{ date | date('LLLL') }} </h1>
+
+<article>
+<h2>Talks im {{ date | date('LLLL') }} </h2>
                 
+<section class="the-talks">
 
 {% block firsttalk %} 
 <div class="talk-item">    
@@ -51,12 +47,14 @@
 </div>
 {% endblock %}
 
+</section>
 
-<h2 style="text-align: center;">Talks der <a href="/2020/">letzen Webmontage:</a></h2>
+<section>
+    <h3 style="text-align: center;">Talks der <a href="/2020/">letzen Webmontage:</a></h3>
 </section>
 
 </article>
 </div> <!--! end of #content -->
-</div>
+
 
 

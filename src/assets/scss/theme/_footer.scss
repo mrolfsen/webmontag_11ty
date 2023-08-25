@@ -71,9 +71,44 @@ footer {
         flex-direction: column;
         align-items: center;
         img {
-            width:clamp(80vw, 70vw, 10em);
+            width:clamp(254px, 30vw, 320px);
         }
         p {
         }
+    }
+    @media (min-width:768px) {
+        display:grid;
+        grid-template-columns:70% 30%;
+
+        nav.supportNavi {
+            grid-column: 2;
+            ul {
+                justify-content: end;
+            }
+        }
+        nav.socialMedia {
+            ul {
+                justify-content: start;
+                padding:0;
+                margin:0 0 3em 0;
+            }
+        }
+        
+        .colophon {
+            grid-column: 1;
+            grid-row: 2;
+            text-align: left;
+        }
+        .cookies {
+            grid-column: 1;
+            grid-row: 3;
+            text-align: left;
+        }
+        .sponsor {
+            grid-column: 2;
+            grid-row: 2 / 4;
+            align-items: end;
+        }
+        
     }
 }
