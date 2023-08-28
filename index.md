@@ -3,8 +3,8 @@ title: "Home"
 layout: "_sitetemplate"
 bodyClass: "start"
 date: 2019-01-01
-nextDate: "21.08.2023"
-nextMonth: "August"
+nextDate: "18.09.2023"
+nextMonth: "September"
 tags:
     - headerNavi
 ---
@@ -21,7 +21,9 @@ tags:
 
 {% block wannwo %} 
 
-In der Regel findet der Webmontag am DRITTER MONTAG IM MONAT abends um 19 UHR im **"Biergarten Alter Zoll"** statt.
+In der Regel findet der Webmontag am DRITTEN MONTAG IM MONAT abends um 19 UHR statt.
+
+Location: **"DIGITALHUB" Am Hauptbahnhof 6 · Bonn** 
 
 {% endblock %}
 
@@ -30,15 +32,27 @@ In der Regel findet der Webmontag am DRITTER MONTAG IM MONAT abends um 19 UHR im
 
 <li><svg class="largeIcon"> <use xlink:href="#icon-talk"> &nbsp; </use> </svg>
 
-## Gadget-Night im Biergarten
-Im {{ nextMonth }} treffen wir uns wieder zur Gadget-Night im Biergarten um 19:00 Uhr im **Biergarten am alten Zoll** bei Essen und Getränken zum entspannten Netzwerken und Nerd-Talken. 
+## Die goldenen Regeln, um Junior-Entwicklern den Projekteinstieg unsanft zu gestalten
 
-Bringt Euer liebstes Gadget mit! 
+Wie einfach es gehen kann, einem Junior-Entwickler das Leben im Projekt ab dem ersten Tag zu vermiesen, zeige ich dir in 6 einfachen Schritten. Sie entspringen nicht meiner Phantasie, sondern werden in vielen Projekten erfolgreich gelebt. Und das Beste ist – die meisten Regeln sind so nachhaltig, dass sie sogar noch lange nach dem Onboarding ihre Wirkung weiter entfalten.
 
-Alternativ-Location bei Regen geben wir frühzeitig bekannt.
-Kontakt: Lina Dillmann  
-[welcome@wmbn.de](mailto:welcome@wmbn.de)
+Andreas Monschau
 
 </li>
 
 {% endblock %}
+
+{% block secondtalk %}
+
+<li><svg class="largeIcon"> <use xlink:href="#icon-talk"> &nbsp; </use> </svg>
+
+## Was ist der C5 und wie verwende ich ihn in meinem nächsten Web-Projekt?
+
+Der Cloud Computing Compliance Control Catalogue, kurz C5, des BSI ist ein Kriterienkatalog für die Sicherheit von Cloud-Diensten. Ich möchte Euch den C5 vorstellen und mit Euch diskutieren, wie ihr das in Euren Projekten anwenden könnt, wo ihr Cloud-Dienste benutzt oder selbst Webanwendungen bereit stellt.
+
+Dr. Patrick Grete  
+
+</li>
+
+{% endblock %}
+
