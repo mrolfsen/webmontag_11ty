@@ -17,11 +17,16 @@ Der Webmontag Bonn ist ein zwangloses Zusammentreffen webaffiner Menschen, die b
 
 
 {% block wannwo %} 
+
 In der Regel findet der Webmontag am **DRITTEN MONTAG IM MONAT** abends um **19 UHR** statt.
+
 {% endblock %}
 
+
 {% block address%}
+
 Location:  
 **DIGITALHUB** • Am Hauptbahnhof 6 • Bonn  
+
 {% endblock %}
  

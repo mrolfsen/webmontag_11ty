@@ -66,6 +66,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/robots.txt");
   eleventyConfig.addPassthroughCopy("src/humans.txt");
   eleventyConfig.addPassthroughCopy("src/favicon.ico");
+  eleventyConfig.addPassthroughCopy("src/icon.png");
+  eleventyConfig.addPassthroughCopy("src/webmontag-bonn-social-image.jpg");
   eleventyConfig.addPassthroughCopy("src/browserconfig.xml");
   eleventyConfig.addPassthroughCopy("src/.htaccess");
   eleventyConfig.addPassthroughCopy("src/assets/fonts");

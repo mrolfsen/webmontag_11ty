@@ -20,7 +20,7 @@ Bei Fragen oder Vorschl&auml;gen zu Vortr&auml;gen, sowie Fragen zu organisatori
 
 Lina Dillmann  
 [welcome@wmbn.de](mailto:welcome@wmbn.de)  
-[Linas Xing-Profil](https://www.xing.com/profile/Lina_Dillmann)  
+[Linas LinkedIn-Profil](https://www.linkedin.com/in/linadillmann/)  
 
 
 c/o bold & friendly | Designagentur  
