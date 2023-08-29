@@ -1,12 +1,9 @@
-<div class="talk-item">    
-    <div class="talk-item__description">
-        <h3>{{ item.talk_title }}</h3>
-        <p>{{ item.talk_description }}</p>
-
-        <p>{{ item.talk_speaker }}<br />
-
-        {% if item.talk_speakerhandle %}
-        <a href="https://twitter.com/{{ item.talk_speakerhandle }}">@{{ item.talk_speakerhandle }}</a>
-        {% endif %}
-    </div>
+<div class="talk-item"><div class="talk-item__description">
+<h3>{{ item.talk_title }}</h3>
+<p>{{ item.talk_description }}</p>
+<p>{{ item.talk_speaker }}</p>
+{%- if item.talk_speakerhandle -%}
+<a href="https://twitter.com/{{ item.talk_speakerhandle }}">@{{ item.talk_speakerhandle }}</a>
+{%- endif -%}
+</div>
 </div>

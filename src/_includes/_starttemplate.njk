@@ -1,5 +1,5 @@
 
-<section id="" class="green">
+<section>
     
     <div class="introduction">
         {% block einleitung %} 
@@ -15,46 +15,39 @@
     <div class="location">
         {% block wannwo %} 
         {% endblock %}
+        <div class="address">
+            <div class="address__icon">
+                <svg>
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#map_marker"></use>
+                </svg>
+            </div>
+            <address>
+                {% block address %} 
+                {% endblock %}
+            </address>
+        </div>
     </div>
-    
 </section>
 
-<div id="main" role="main">
+<section class="talk-section">
+<h2>Talks im {{ date | date('LLLL') }}:</h2>
 
-<article>
-<h2>Talks im {{ date | date('LLLL') }} </h2>
-                
-<section class="the-talks">
-
-{% block firsttalk %} 
-<div class="talk-item">    
-    <div class="talk-item__description">
-        <h3>Dein Vortrag?</h3>
-        <p>Wir suchen immer wieder gute Themen und Leute, die Vortr&auml;ge halten m&ouml;chten. Die Vortr&auml;ge sollten 10-25 Minuten nicht &uuml;berschreiten und sollten vorher angek&uuml;ndigt werden, zwecks besserer Koordination. <br /><strong><a href="/vortrags-wunschliste/">Vortrags-Wunschliste</a></strong>&nbsp;<br />Bitte wendet euch an:</p>
-        <p>Kontakt: Lina Dillmann<br /> <a href="mailto:welcome@wmbn.de">welcome@wmbn.de</a></p>
-    </div>
+<div class="the-talks">
+{%- for item in talks2023 | limit(1) -%}
+{%- if (item.talk_startseite === 1) -%}
+{%- include 'src/_includes/_talk-start-item.njk' -%}    
+{%- endif -%}
+{%- endfor -%}
+{%- for item in talks2023 -%}
+{%- if (item.talk_startseite === 2) -%}
+{%- include 'src/_includes/_talk-start-item.njk' -%}
+{%- endif -%}
+{%- endfor -%}
 </div>
-{% endblock %}
-
-
-{% block secondtalk %} 
-<div class="talk-item">    
-    <div class="talk-item__description">
-        <h3>Dein Vortrag?</h3>
-        <p>Wir suchen immer wieder gute Themen und Leute, die Vortr&auml;ge halten m&ouml;chten. Die Vortr&auml;ge sollten 10-25 Minuten nicht &uuml;berschreiten und sollten vorher angek&uuml;ndigt werden, zwecks besserer Koordination. <br /><strong><a href="/vortrags-wunschliste/">Vortrags-Wunschliste</a></strong>&nbsp;<br />Bitte wendet euch an:</p>
-        <p>Kontakt: Lina Dillmann<br /> <a href="mailto:welcome@wmbn.de">welcome@wmbn.de</a></p>
-    </div>
-</div>
-{% endblock %}
-
+<p>&nbsp;</p>
+<h3 style="text-align: center;">Talks der letzen Webmontage findet ihr <a href="/{{ date | date('yyyy') }}/">hier</a>.</h3>
 </section>
 
-<section>
-    <h3 style="text-align: center;">Talks der <a href="/2020/">letzen Webmontage:</a></h3>
-</section>
-
-</article>
-</div> <!--! end of #content -->
 
 
 

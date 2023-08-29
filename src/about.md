@@ -7,7 +7,7 @@ tags:
 
 # About
 
-## Was ist der<span>Webmontag Bonn?
+## Was ist der Webmontag Bonn?
 
 Der Webmontag Bonn ist ein zwangloses Zusammentreffen webaffiner Menschen, die bei einem Kaffee oder Bier Kontakte kn&uuml;pfen und sich &uuml;ber die aktuelle Entwicklung im Web austauschen m&ouml;chten. In der Regel gibt es ein bis zwei Vortr&auml;ge &ndash; jeder ist eingeladen, sich einzubringen.
 
@@ -16,9 +16,12 @@ Die Vortr&auml;ge sollten 45 Minuten m&ouml;glichst nicht &uuml;berschreiten (ei
 Herzlich willkommen sind alle aus dem K&ouml;ln-Bonner Raum, die sich beruflich mit Themen des Internets auseinandersetzen oder sich privat engagieren, in dem sie z.B. Open-Source-Projekte betreiben.
 
 
-## Wo finde ich den <span>Webmontag Bonn?</span></h1>
+## Wo finde ich den Webmontag Bonn?
 
-tba - Wir sind derzeit auf der Suche nach einer neue Location!
+DIGITALHUB   
+Am Hauptbahnhof 6   
+Bonn    
+
 	
 
       

@@ -1,5 +1,11 @@
+
 .the-talks {
     @media (min-width:768px) {
         display:flex;
+        gap: clamp(1em, 3vw, 2em);
+    }
+
+    .talk-item {
+        width:auto;
     }
 }

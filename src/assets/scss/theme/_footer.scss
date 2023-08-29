@@ -41,6 +41,11 @@ footer {
                     svg.soc-icons {
                         height:3em;
                         width:3em;
+
+                        @media (min-width:768px) {
+                            width:4em;
+                            height:4em;
+                        }
                     }
                 }
             }

@@ -49,4 +49,13 @@
             width:100%;
         }
     }
+    @media (min-width:768px) {
+        .signet {
+            width:4.6em;
+            margin-right:1em;
+        }
+        .logotype {
+            height:3.6em;
+        } 
+    }
 }

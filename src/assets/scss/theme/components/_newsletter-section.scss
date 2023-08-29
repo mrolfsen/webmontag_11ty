@@ -1,0 +1,43 @@
+// Le newsletter
+
+.newsletter-section {
+    background:rgba(255,255,255,0.3);
+    box-shadow:0 8px 64px rgba(0,0,0,.1);
+    border-radius:1em;
+    padding:clamp(1em,2.4vw,2.2em);
+    margin-top:var(--large-bottom-margin);
+
+    button {
+        font-size: 1.2em !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        padding: 0.6em 1.2em 0.6em 1.2em !important;
+        background: var(--button-background) !important;
+        border: .25em solid var(--button-border) !important;
+        color: var(--font-color) !important;
+        border-radius: 300px !important;
+        font-weight: 600 !important;
+        text-decoration: none !important;
+    }
+    input {
+        font-size: 1.2em !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        padding: 0.7em 0.7em 0.7em 1.1em !important;
+        background: transparent !important;
+        border: 0.25em solid var(--button-border) !important;
+        color: var(--font-color) !important;
+        border-radius: 1em !important;
+        font-weight: 500 !important;
+        text-decoration: none !important;
+        width: 100%;
+        box-sizing:border-box;
+
+        @media (min-width:768px) {
+            max-width: 35vw;
+        }
+    }
+    label {
+        visibility:hidden;
+    }
+}

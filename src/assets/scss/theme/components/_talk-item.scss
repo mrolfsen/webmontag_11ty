@@ -3,6 +3,9 @@
     display:flex;
     align-items: flex-start;
     gap:.6em;
+    width:100%;
+    max-width:100%;
+    margin-bottom:clamp(1em,2vw,2.5em);
 
     &__date {
         background:black;
@@ -13,19 +16,21 @@
         flex-direction:column;
         align-items: center;
         justify-content: center;
-        padding:0em;
+        padding:clamp(0.1em, 2vw, .5em);
+        margin-right:clamp(0.1em, 2vw, 2em);
         width: 3em;
         height:auto;
+        font-size:clamp(1em, 2vw, 2em);
 
         &__day {
-            font-size: 1.7rem;
+            font-size: 1.7em;
             padding: 0 0.4em;
             font-weight: 500;
             line-height: .9;
 
         }
         &__month {
-            font-size:.6rem;
+            font-size:.6em;
             padding: 0 0.4em;
             font-weight: 500;
             line-height: 1;
@@ -35,15 +40,19 @@
 
     }
     &__description {
-        padding:1em;
+        padding:clamp(1em, 2.4vw, 2.2em); 
         background:white;
         border-radius:1em;
         height:100%;
         font-size:.9em;
         box-shadow: 0 8px 64px rgba(0,0,0, .1);
+        width:100%;
+        hyphens:auto;
+        font-weight:400;
 
         h3 {
             font-size:clamp(1.2em,4vw,2em);
+            max-width:54ch;
         }
     }
 }

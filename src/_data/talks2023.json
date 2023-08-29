@@ -1,7 +1,7 @@
 [
   {
     "talk_startseite": 1,
-    "talk_date": "2020-09-18",
+    "talk_date": "2023-09-18",
     "talk_title": "Die goldenen Regeln, um Junior-Entwicklern den Projekteinstieg unsanft zu gestalten",
     "talk_description": "Wie einfach es gehen kann, einem Junior-Entwickler das Leben im Projekt ab dem ersten Tag zu vermiesen, zeige ich dir in 6 einfachen Schritten. Sie entspringen nicht meiner Phantasie, sondern werden in vielen Projekten erfolgreich gelebt. Und das Beste ist – die meisten Regeln sind so nachhaltig, dass sie sogar noch lange nach dem Onboarding ihre Wirkung weiter entfalten.",
     "talk_speaker": "Andreas Monschau",
@@ -10,7 +10,7 @@
   },
   {
     "talk_startseite": 2,
-    "talk_date": "2020-09-18",
+    "talk_date": "2023-09-18",
     "talk_title": "Was ist der C5 und wie verwende ich ihn in meinem nächsten Web-Projekt?",
     "talk_description": "Der Cloud Computing Compliance Control Catalogue, kurz C5, des BSI ist ein Kriterienkatalog für die Sicherheit von Cloud-Diensten. Ich möchte Euch den C5 vorstellen und mit Euch diskutieren, wie ihr das in Euren Projekten anwenden könnt, wo ihr Cloud-Dienste benutzt oder selbst Webanwendungen bereit stellt.",
     "talk_speaker": "Dr. Patrick Grete",

@@ -9,7 +9,7 @@ tags:
 # Kontakt
 
 
-## Ich habe Fragen.<span>Ich w&uuml;rde gerne einen Vortrag halten.</span>
+## Ich habe Fragen. Ich w&uuml;rde gerne einen Vortrag halten.
 
 Bei Fragen oder Vorschl&auml;gen zu Vortr&auml;gen, sowie Fragen zu organisatorischen Dingen wende dich bitte an Lina Dillmann:  
 [welcome@wmbn.de](mailto:welcome@wmbn.de)  
@@ -31,7 +31,9 @@ Overbeckstr. 50
 ## Credits:
 
 **Location:**  
-tba  
+DIGITALHUB   
+Am Hauptbahnhof 6   
+Bonn    
 
 
 **Design & Realisierung:**    
