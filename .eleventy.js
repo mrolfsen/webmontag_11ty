@@ -14,26 +14,6 @@ module.exports = function(eleventyConfig) {
   // limit the amount of slides in sliders
   eleventyConfig.addNunjucksFilter("limit", (arr, limit) => arr.slice(0, limit));
 
-   
-  // Copy `js/` to `_site/js`
-  eleventyConfig.addPassthroughCopy("FrontEnd/wmbn/js");
-  //eleventyConfig.addPassthroughCopy("FrontEnd/wmbn/img");
-  //eleventyConfig.addPassthroughCopy("FrontEnd/wmbn/css");
-  eleventyConfig.addPassthroughCopy("FrontEnd/wmbn/fonts");
-  // Copy `img/` to `_site/img`
-  
-  eleventyConfig.addPassthroughCopy("files");
-    
-
-  // CSS is compiled via CodeKit – dont pass through!
-  //eleventyConfig.addPassthroughCopy('css');
-
-  // Copy `fonts/` to `_site/css/fonts`
-  // If you use a subdirectory, it’ll copy using the same directory structure.
-  eleventyConfig.addPassthroughCopy('fonts');
-
-  // exporting the manifest
-  eleventyConfig.addPassthroughCopy("webmanifest");
 
 
   // Generate the Sitemap
@@ -65,6 +45,7 @@ module.exports = function(eleventyConfig) {
   // Include our static assets
   eleventyConfig.addPassthroughCopy("src/robots.txt");
   eleventyConfig.addPassthroughCopy("src/humans.txt");
+  eleventyConfig.addPassthroughCopy("src/files");
   eleventyConfig.addPassthroughCopy("src/favicon.ico");
   eleventyConfig.addPassthroughCopy("src/icon.png");
   eleventyConfig.addPassthroughCopy("src/webmontag-bonn-social-image.jpg");
