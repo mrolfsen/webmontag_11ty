@@ -50,7 +50,7 @@
 "talk_date":"2012-07-16",
 "talk_title":"Communities – kann man damit Geld verdienen?",
 "talk_speaker":"Andreas Jürgensen",
-"talk_description":"Spontaner Vortrag von Andreas Jürgensen: Mit dem Titel 'Communities – kann man damit Geld verdienen?&rdquo; griff er ein wirtschaftliches Thema auf, das einigen so nicht präsent war. Am Beispiel des von ihm betriebenen Leica-Forums zeigte er auf, dass sich auch neben Facebook &amp; Co. interessante Ertragsmöglichkeiten bieten. Dabei erläuterte er transparent seine Vorgehensweise beim Aufbau, bei der Optimierung und bei der Entwicklung weiterer Marktchancen. Somit stand zwar kein technisches Thema im Mittelpunkt des Webmontags, dennoch aber eines, dass ein Kernthema in der Onlinekommunikation bildet. Besonders bedanken wir uns, dass er uns im kleinen Kreis einen Einblick in die bevorstehende Weiterentwicklung dieses Geschäftsbereiches gegeben hat und im Anschluß geduldig Rede und Antwort stand.",
+"talk_description":"Spontaner Vortrag von Andreas Jürgensen: Mit dem Titel 'Communities – kann man damit Geld verdienen?' griff er ein wirtschaftliches Thema auf, das einigen so nicht präsent war. Am Beispiel des von ihm betriebenen Leica-Forums zeigte er auf, dass sich auch neben Facebook & Co. interessante Ertragsmöglichkeiten bieten. Dabei erläuterte er transparent seine Vorgehensweise beim Aufbau, bei der Optimierung und bei der Entwicklung weiterer Marktchancen. Somit stand zwar kein technisches Thema im Mittelpunkt des Webmontags, dennoch aber eines, dass ein Kernthema in der Onlinekommunikation bildet. Besonders bedanken wir uns, dass er uns im kleinen Kreis einen Einblick in die bevorstehende Weiterentwicklung dieses Geschäftsbereiches gegeben hat und im Anschluß geduldig Rede und Antwort stand.",
 "talk_slideslink":""
 },
 {
@@ -68,7 +68,7 @@
 "talk_title":"WebGL – ein Überblick + 1 Jahr Webmontag",
 "talk_speaker":"Jens Arps",
 "talk_speakerhandle":"jensarps",
-"talk_description":"Der Vortag von Jens Arps  über 'WebGL – ein Überblick&rdquo; zeigte zunächst Hintergrund und Geschichte der Technologie auf. Danach erläuterte er anhand einiger Praxisanwendungen die Einsatzmöglichkeiten. Nach seinem Vortrag zeigte er noch einige spannende Demos. Ausserdem gab es noch Grund zum Feieren – der Webmontag feierte seienen ersten Geburtstag!<br />An dieser Stelle noch einmal ein riesen Dankeschön an Anita Hubert (@CakeFriday) die uns einen leckeren Geburtstagskuchen bebacken hat!",
+"talk_description":"Der Vortag von Jens Arps  über 'WebGL – ein Überblick' zeigte zunächst Hintergrund und Geschichte der Technologie auf. Danach erläuterte er anhand einiger Praxisanwendungen die Einsatzmöglichkeiten. Nach seinem Vortrag zeigte er noch einige spannende Demos. Ausserdem gab es noch Grund zum Feieren – der Webmontag feierte seienen ersten Geburtstag!<br />An dieser Stelle noch einmal ein riesen Dankeschön an Anita Hubert (@CakeFriday) die uns einen leckeren Geburtstagskuchen bebacken hat!",
 "talk_slideslink":"http://www.slideshare.net/jensarps/webgl-12076364"
 },
 {
@@ -76,7 +76,7 @@
 "talk_date":"2012-03-19",
 "talk_title":"Textoptimierung im Web",
 "talk_speaker":"Yvonne Grünenwald",
-"talk_description":"An verscheidenden Textbeispielen beantwortete sie zunächst die Fragen: 'Wird der Nutzen für den Leser klar? Passt es zum roten Faden?' Im weiteren ging sie auf die fünf Textsünden, Geschwätzigkeit, Selbstverständlich, Floskeln, Ausrufezeichen und Arroganz ein. Bevor die Frage- und Diskussionsrunde eingeleitet wurde, erläuterte sie uns die vier Textverstärker 'Sag es Positiv&rdquo;, 'Bilder im Kopf entstehen lassen&rdquo;, 'Texte mit Leben füllen' und 'Emotionen haben Vorfahrt'.",
+"talk_description":"An verscheidenden Textbeispielen beantwortete sie zunächst die Fragen: 'Wird der Nutzen für den Leser klar? Passt es zum roten Faden?' Im weiteren ging sie auf die fünf Textsünden, Geschwätzigkeit, Selbstverständlich, Floskeln, Ausrufezeichen und Arroganz ein. Bevor die Frage- und Diskussionsrunde eingeleitet wurde, erläuterte sie uns die vier Textverstärker 'Sag es Positiv', 'Bilder im Kopf entstehen lassen', 'Texte mit Leben füllen' und 'Emotionen haben Vorfahrt'.",
 "talk_slideslink":""
 },
 {
@@ -102,7 +102,7 @@
 "talk_title":"Less – The dynamic stylesheet language",
 "talk_speaker":"Michael Rolfsen",
 "talk_speakerhandle":"michaelsupdates",
-"talk_description":"Der zweite Vortrag an diesem Montag von Michael Rolfsen behandelte den CSS-Preprocessor 'Less'. Nach einem kurzen Überblick über die verschiedenen Einsatz-Methoden von 'Less' und wie er die Funktionalität von CSS ergänzt, gab es einige konkrete Code-Beispiele mittels einer Demoseite. Martin Schneider (@schneyra) hat diesen Bonner Webmontag auf seinem Blog sehr schön zusammengefasst:<br /><a href='http://www.dertagundich.de/webmontag-bonn-12012/' target='_blank'>Der Tag und ich</a>",
+"talk_description":"Der zweite Vortrag an diesem Montag von Michael Rolfsen behandelte den CSS-Preprocessor 'Less'. Nach einem kurzen Überblick über die verschiedenen Einsatz-Methoden von 'Less' und wie er die Funktionalität von CSS ergänzt, gab es einige konkrete Code-Beispiele mittels einer Demoseite.",
 "talk_slideslink":""
 }
 ]  
