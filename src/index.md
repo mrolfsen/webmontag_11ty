@@ -2,7 +2,7 @@
 title: "Home"
 layout: "_sitetemplate"
 bodyClass: "start"
-date: "2023-09-18"
+date: "2023-10-16"
 
 ---
 
@@ -26,7 +26,7 @@ In der Regel findet der Webmontag am **DRITTEN MONTAG IM MONAT** abends um **19 
 {% block address%}
 
 Location:  
-**DIGITALHUB** • Am Hauptbahnhof 6 • Bonn  
+{{ global.brotfabrik | safe }}
 
 {% endblock %}
  

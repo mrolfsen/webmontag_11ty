@@ -1,6 +1,16 @@
 [
   {
     "talk_startseite": 1,
+    "talk_date": "2023-10-16",
+    "talk_title": "Film Screening mit anschließender Diskussion: 'The Circle'",
+    "talk_image": "600_489675767.webp",
+    "talk_description": "Überglücklich einen Job bei dem angesagtesten Unternehmen 'The Circle' bekommen zu haben, stürzt sich die junge Mae in eine Welt aus Hight-Tech-Büros, High-Class-Restaurants, Gratis-Konzerten und coolen Partys. Wissen ist gut, aber noch mehr wissen ist besser - lautet das Credo des Digital-Konzerns. In den Augen der Protagonistin Mae ist dies abwechselnd berauschend und erdrückend. In einer dauereuphorisierten Welt in der die Aufhebung der Grenze des Privaten und Öffentlichen neue Freiheiten verspricht, beherrscht die Angst nicht genug zu „teilen“, den Alltag der Menschen. Die Technologie beginnt, die Menschen zu überwältigen und sie mit endlosen Social-Media-Feeds, Freundschaftsanfragen und Live-Sendungen zu überfluten. Eine Gelegenheit, um über die kommerzialisierte Intimität in einer dauerinszenierten Gesellschaft, in der keiner mehr alleine ist, zu reflektieren.<br><br> Nach dem Film bleibt noch viel Zeit um bei einem gepflegten Bier die Diskussion weiter zu führen, zu Netzwerken, oder einfach den Abend in netter Atmosphäre ausklingen zu lassen. <br>Wir freuen uns auf euch.",
+    "talk_speaker": "Moderation: Damian Paderta",
+    "talk_speakerhandle": "",
+    "talk_slideslink": ""
+  },
+  {
+    "talk_startseite": "",
     "talk_date": "2023-09-18",
     "talk_title": "Die goldenen Regeln, um Junior-Entwicklern den Projekteinstieg unsanft zu gestalten",
     "talk_description": "Wie einfach es gehen kann, einem Junior-Entwickler das Leben im Projekt ab dem ersten Tag zu vermiesen, zeige ich dir in 6 einfachen Schritten. Sie entspringen nicht meiner Phantasie, sondern werden in vielen Projekten erfolgreich gelebt. Und das Beste ist – die meisten Regeln sind so nachhaltig, dass sie sogar noch lange nach dem Onboarding ihre Wirkung weiter entfalten.",
@@ -9,7 +19,7 @@
     "talk_slideslink": ""
   },
   {
-    "talk_startseite": 2,
+    "talk_startseite": "",
     "talk_date": "2023-09-18",
     "talk_title": "Was ist der C5 und wie verwende ich ihn in meinem nächsten Web-Projekt?",
     "talk_description": "Der Cloud Computing Compliance Control Catalogue, kurz C5, des BSI ist ein Kriterienkatalog für die Sicherheit von Cloud-Diensten. Ich möchte Euch den C5 vorstellen und mit Euch diskutieren, wie ihr das in Euren Projekten anwenden könnt, wo ihr Cloud-Dienste benutzt oder selbst Webanwendungen bereit stellt.",

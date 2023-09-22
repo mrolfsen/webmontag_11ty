@@ -53,6 +53,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/.htaccess");
   eleventyConfig.addPassthroughCopy("src/assets/fonts");
   eleventyConfig.addPassthroughCopy("src/assets/js");
+  eleventyConfig.addPassthroughCopy("src/img-talks");
 
   
 

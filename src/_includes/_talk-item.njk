@@ -6,7 +6,12 @@
 
     <div class="talk-item__description">
         <h3>{{ item.talk_title }}</h3>
-        <p>{{ item.talk_description }}</p>
+
+        {% if item.talk_image %}
+            <img src="/img-talks/{{ item.talk_image }}" alt="{{ item.talk_title }}">
+        {% endif %}
+
+        <p>{{ item.talk_description | safe }}</p>
 
         {% if item.talk_slideslink %}
             <p>Slides des Vortrags findet ihr <a rel="noopener" href="{{ item.talk_slideslink }}">hier</a>. </p>
