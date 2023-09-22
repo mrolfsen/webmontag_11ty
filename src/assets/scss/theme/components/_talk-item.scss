@@ -44,11 +44,15 @@
         background:white;
         border-radius:1em;
         height:100%;
-        font-size:.9em;
+        //font-size:.9em;
         box-shadow: 0 8px 64px rgba(0,0,0, .1);
         width:100%;
         hyphens:auto;
         font-weight:400;
+
+        p {
+            font-size:var(--step--1);
+        }
 
         img {
             max-width:100%;
@@ -56,7 +60,7 @@
             height:auto;
         }
         h3 {
-            font-size:clamp(1.2em,4vw,2em);
+            //font-size:clamp(1.2em,4vw,2em);
             max-width:54ch;
         }
     }
