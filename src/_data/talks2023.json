@@ -1,6 +1,18 @@
 [
   {
     "talk_startseite": 1,
+    "talk_date": "2023-11-20",
+    "talk_title": "SSDLC im agilen Umfeld - ein Praxis Beispiel",
+    "talk_speaker": "Kai Dippel"
+  },
+  {
+    "talk_startseite": 2,
+    "talk_date": "2023-11-20",
+    "talk_title": "BEM CSS (alternativ evt. Green Software Basics)",
+    "talk_speaker": "Andreas Gartz"
+  },
+  {
+    "talk_startseite": "",
     "talk_date": "2023-10-16",
     "talk_title": "Film Screening mit anschließender Diskussion: 'The Circle'",
     "talk_image": "600_489675767.webp",
@@ -28,3 +40,6 @@
     "talk_slideslink": ""
   }
 ]
+
+
+
