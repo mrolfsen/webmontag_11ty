@@ -7,6 +7,13 @@
     "talk_speaker": "Andreas Gartz"
   },
   {
+    "talk_startseite": 2,
+    "talk_date": "2023-11-20",
+    "talk_title": "N8N",
+    "talk_description": "Wie man auch als Nicht-Programmierer Bots und Automatisierungen auf Basis von APIs und JSON machen kann",
+    "talk_speaker": "Askan Schmeißer und Sascha Foerster"
+  },
+  {
     "talk_startseite": "",
     "talk_date": "2023-10-16",
     "talk_title": "Film Screening mit anschließender Diskussion: 'The Circle'",
