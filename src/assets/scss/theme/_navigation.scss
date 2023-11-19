@@ -28,6 +28,7 @@ header nav {
                 margin: 0;
                 padding: 8px 4px 2px;
                 border-bottom: 4px solid transparent;
+                transition: .2s all;
 
                 @media (min-width:768px) {
                     font-size:1.2em;
