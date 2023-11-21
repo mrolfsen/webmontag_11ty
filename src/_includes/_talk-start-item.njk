@@ -4,9 +4,12 @@
     <img src="/img-talks/{{ item.talk_image }}" alt="{{ item.talk_title }}">
 {% endif %}
 <p>{{ item.talk_description | safe }}</p>
-<p>{{ item.talk_speaker }}</p>
+<p>{{ item.talk_speaker }}<br>
 {%- if item.talk_speakerhandle -%}
 <a href="https://twitter.com/{{ item.talk_speakerhandle }}">@{{ item.talk_speakerhandle }}</a>
 {%- endif -%}
+{%- if item.talk_speakerhandle_mastodon -%}
+    {{ item.talk_speakerhandle_mastodon }}
+{%- endif -%}</p>
 </div>
 </div>

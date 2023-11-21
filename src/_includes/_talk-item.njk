@@ -22,6 +22,10 @@
         {% if item.talk_speakerhandle %}
         <a href="https://twitter.com/{{ item.talk_speakerhandle }}">@{{ item.talk_speakerhandle }}</a>
         {% endif %}
+
+        {% if item.talk_speakerhandle_mastodon %}
+            {{ item.talk_speakerhandle_mastodon }}
+        {% endif %}
         </p>    
     </div>
 </div>
