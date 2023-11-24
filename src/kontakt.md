@@ -14,6 +14,13 @@ tags:
 Bei Fragen oder Vorschl&auml;gen zu Vortr&auml;gen, sowie Fragen zu organisatorischen Dingen wende dich bitte an Lina Dillmann:  
 [welcome@wmbn.de](mailto:welcome@wmbn.de)  
 
+## Team
+
+<ul class="team">                 
+{% for item in team %}              
+{% include 'src/_includes/_team-member.njk' %}
+{% endfor %}
+</ul>
 
 
 ## Veranstalter & Organisation
