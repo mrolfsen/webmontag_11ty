@@ -1,6 +1,16 @@
 [
   {
     "talk_startseite": 1,
+    "talk_date": "2023-12-18",
+    "talk_title": "Glühwein Edition",
+    "talk_description": "Im Dezember treffen wir uns traditionell auf dem Bonner Weihnachtsmarkt auf eine Tasse Glühwein und gute, nerdige Gespräche. Kommt rum! Genauer Ort bald an dieser Stelle ",
+    "talk_speaker": "Das WMBN Orga-Team",
+    "talk_speakerhandle_mastodon": "",
+    "talk_speakerhandle_mastodon_link": "",
+    "talk_slideslink": ""
+  },
+  {
+    "talk_startseite": "",
     "talk_date": "2023-11-20",
     "talk_title": "N8N",
     "talk_description": "Wie man auch als Nicht-Programmierer Bots und Automatisierungen auf Basis von APIs und JSON machen kann",

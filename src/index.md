@@ -2,7 +2,7 @@
 title: "Home"
 layout: "_sitetemplate"
 bodyClass: "start"
-date: "2023-11-20"
+date: "2023-12-18"
 
 ---
 
@@ -26,7 +26,7 @@ In der Regel findet der Webmontag am **DRITTEN MONTAG IM MONAT** abends um **19 
 {% block address%}
 
 Location:  
-{{ global.digitalhub | safe }}
+{{ global.weihnachtsmarkt | safe }}
 
 {% endblock %}
  
