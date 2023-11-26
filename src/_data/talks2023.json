@@ -16,7 +16,7 @@
     "talk_description": "Wie man auch als Nicht-Programmierer Bots und Automatisierungen auf Basis von APIs und JSON machen kann",
     "talk_speaker": "Askan Schmeißer und Sascha Foerster",
     "talk_speakerhandle_mastodon": "@askans@bonn.social",
-    "talk_speakerhandle_mastodon_link": "",
+    "talk_speakerhandle_mastodon_link": "https://bonn.social/@askans",
     "talk_slideslink": "https://hedgedoc.askan.info/p/QfhVHDRuA#/"
   },
   {
@@ -37,7 +37,7 @@
     "talk_speaker": "Andreas Monschau",
     "talk_speakerhandle": "",
     "talk_speakerhandle_mastodon": "@andreasmonschau@mastodon.social",
-    "talk_speakerhandle_mastodon_link": "",
+    "talk_speakerhandle_mastodon_link": "https://mastodon.social/@andreasmonschau",
     "talk_slideslink": ""
   },
   {

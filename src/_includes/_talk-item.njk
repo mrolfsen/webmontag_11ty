@@ -20,11 +20,17 @@
         <p>{{ item.talk_speaker }}<br />
 
         {% if item.talk_speakerhandle %}
-        <a href="https://twitter.com/{{ item.talk_speakerhandle }}">@{{ item.talk_speakerhandle }}</a>
+            <a class="social-link" href="https://twitter.com/{{ item.talk_speakerhandle }}">
+                <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-twitter"></use></svg>
+                @{{ item.talk_speakerhandle }}
+            </a>
         {% endif %}
 
         {% if item.talk_speakerhandle_mastodon %}
-            {{ item.talk_speakerhandle_mastodon }}
+            <a class="social-link" href="{{ item.talk_speakerhandle_mastodon_link }}">
+                <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-mastodon"></use></svg>
+                {{ item.talk_speakerhandle_mastodon }}
+            </a>
         {% endif %}
         </p>    
     </div>

@@ -1,18 +1,18 @@
 :root {
-    --font-color: #000;
+  --font-color:         #000;
 
+  --button-background:  #A0F1CA;
+  --button-border:      #A0D9BD;
+  /* --light-green:#DAFAEB;
+  --border-green: #A0D9BD; */
+  --underline-green:    #65D6B1;
+  --social-link-green:  #35846A;
 
-    --button-background:#A0F1CA;
-    --button-border:#A0D9BD;
-    /* --light-green:#DAFAEB;
-    --border-green: #A0D9BD; */
-    --underline-green: #65D6B1;
+  --accent-color:       #FF4FD3;
 
-    --accent-color: #FF4FD3;
+  --default-font:       'Poppins';
 
-    --default-font: 'Poppins';
-
-    --large-bottom-margin: clamp(5rem, 6vw, 9rem);
+  --large-bottom-margin: clamp(5rem, 6vw, 9rem);
 }
 
 

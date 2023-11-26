@@ -118,3 +118,19 @@ a.meetup-link {
 #main a.meetup-link {
     font-size:.7em;
 }
+
+#main a.social-link {
+    display:inline-flex;
+    align-items: center;
+    background:transparent;
+    color:var(--social-link-green);
+    &:hover {
+        color:var(--accent-color);
+    }
+    svg {
+        height:1.7em;
+        width:1.7em;
+        margin-right:0.2em;
+    }
+
+}
