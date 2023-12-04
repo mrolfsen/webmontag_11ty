@@ -2,30 +2,30 @@
     {
         "team_name":"Lina Dillmann",
         "team_img":"/assets/img/team/lina-dillmann.jpg",
-        "team_twitter":"twitter",
-        "team_mastodon":"mastodon",
-        "team_linkedin":"linkedin"
+        "team_twitter":"https://twitter.com/LinaDillmann",
+        "team_mastodon":"",
+        "team_linkedin":"https://www.linkedin.com/in/linadillmann/"
     },
     {
         "team_name":"Damina Paderta",
         "team_img":"/assets/img/team/damian-paderta.jpg",
-        "team_twitter":"twitter",
+        "team_twitter":"https://twitter.com/paderta",
         "team_mastodon":"",
-        "team_linkedin":"linkedin"
+        "team_linkedin":"https://www.linkedin.com/in/paderta/"
     },
     {
         "team_name":"Michael Rolfsen",
         "team_img":"/assets/img/team/michael-rolfsen.jpg",
-        "team_twitter":"twitter",
-        "team_mastodon":"mastodon",
-        "team_linkedin":"linkedin"
+        "team_twitter":"",
+        "team_mastodon":"https://social.cologne/@michaelsupdates",
+        "team_linkedin":"https://www.linkedin.com/in/michael-rolfsen-41812b12/"
     },
     {
         "team_name":"Dirk Schächter",
         "team_img":"/assets/img/team/dirk-schaechter.jpg",
-        "team_twitter":"twitter",
+        "team_twitter":"",
         "team_mastodon":"",
-        "team_linkedin":"linkedin"
+        "team_linkedin":"https://www.linkedin.com/in/dirk-schaechter-97724817/"
     }
 
 ]
