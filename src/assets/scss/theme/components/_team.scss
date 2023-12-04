@@ -1,0 +1,58 @@
+// team members component
+
+#main .team {
+    list-style:none;
+    margin:0;
+    padding:0;
+
+    @media (min-width:480px) {
+        display:grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    @media (min-width: 1280px) {
+        display:grid;
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    &__member {
+        margin:0;
+        padding:0;
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+
+        figure {
+            img {
+                width:100%;
+                max-width:17em;
+                height:auto;
+                border-radius: 60em;
+                border:3px solid var(--button-border);
+                border:5px solid var(--underline-green);
+            };
+            figcaption {
+                display:flex;
+                flex-direction: column;
+                align-items: center;
+
+                p {
+                    margin-bottom:.5em;
+                }
+
+                .team__member__some {
+                    list-style:none;
+                    margin:0;
+                    padding:0;
+                    display:flex;
+                    a {
+                        background:transparent;
+                    }
+                    svg {
+                        height:2.5em;
+                        width:2.5em;
+                    }
+                }
+            }
+        }
+    }
+}

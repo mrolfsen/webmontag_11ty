@@ -1,0 +1,31 @@
+<li class="team__member">
+    <figure>
+        <img src="{{ item.team_img }}" alt="{{ item.team_name }}">
+        <figcaption>
+            <p>{{ item.team_name }}</p>
+            <ul class="team__member__some">
+                {% if item.team_twitter %}
+                <li>
+                    <a href="{{ item.team_twitter }}">
+                        <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-twitter"></use></svg>
+                    </a>
+                </li>
+                {% endif %}
+                {% if item.team_linkedin %}
+                <li>
+                    <a href="{{ item.team_linkedin }}">
+                        <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-linkedin"></use></svg>
+                    </a>
+                </li>
+                {% endif %}
+                {% if item.team_mastodon %}
+                <li>
+                    <a href="{{ item.team_mastodon }}">
+                        <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-mastodon"></use></svg>
+                    </a>
+                </li>
+                {% endif %}
+            </ul>
+        </figcaption>
+    </figure>
+</li>
