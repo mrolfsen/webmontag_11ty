@@ -29,12 +29,12 @@
 <section class="talk-section">
 <h2>Talks im {{ date | date('LLLL') }}:</h2>
 <div class="the-talks">
-{%- for item in talks2023 | limit(1) -%}
+{%- for item in talks2024 | limit(1) -%}
 {%- if (item.talk_startseite === 1) -%}
 {%- include 'src/_includes/_talk-start-item.njk' -%}    
 {%- endif -%}
 {%- endfor -%}
-{%- for item in talks2023 -%}
+{%- for item in talks2024 -%}
 {%- if (item.talk_startseite === 2) -%}
 {%- include 'src/_includes/_talk-start-item.njk' -%}
 {%- endif -%}

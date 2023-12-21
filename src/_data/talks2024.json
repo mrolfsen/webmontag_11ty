@@ -1,0 +1,25 @@
+[
+  {
+    "talk_startseite": 1,
+    "talk_date": "2024-01-15",
+    "talk_title": "Green Software Basics",
+    "talk_description": "Nachhaltigkeit spielt heute eine entscheidende Rolle. Welche Möglichkeiten haben Softwareentwickler, um einen positiven Beitrag zum Umweltschutz zu leisten? Dieser Frage ist Andreas nachgegangen und stellt seine Erfahrungen, mögliche Ansätze und ein paar praktische Beispiele vor. Der Vortrag versteht sich als einfacher Einstieg in das komplexe wie zukunftsweisende Thema 'nachhaltige Softwareentwicklung'.",
+    "talk_speaker": "Andreas Gartz",
+    "talk_speakerhandle_mastodon": "",
+    "talk_speakerhandle_mastodon_link": "",
+    "talk_slideslink": ""
+  },
+  {
+    "talk_startseite": 2,
+    "talk_date": "2024-01-15",
+    "talk_title": "Dynamische Formulare mit JSON und AJV",
+    "talk_description": "Der Vortrag zeigt anhand konkreter Fallbeispiele, wie mit JSON-Schema Formularfelder definiert und mit AJV validiert werden können. Darüber hinaus werden Erfahrungen und Best-Practices aus dem Praxiseinsatz vermittelt.",
+    "talk_speaker": "Christian Kliem",
+    "talk_speakerhandle_mastodon": "",
+    "talk_speakerhandle_mastodon_link": "",
+    "talk_slideslink": ""
+  }
+]
+
+
+
