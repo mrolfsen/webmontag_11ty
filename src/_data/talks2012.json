@@ -11,7 +11,7 @@
 "talk_startseite":null,	
 "talk_date":"2012-11-19",
 "talk_title":"Kampfstern Privatica: Warum Datenschutz mit der Brechstange nicht funktioniert",
-"talk_speaker":"Jochim Sel",
+"talk_speaker":"Jochim Selzer",
 "talk_slideslink":""
 },
 {
@@ -103,6 +103,8 @@
 "talk_speaker":"Michael Rolfsen",
 "talk_speakerhandle":"michaelsupdates",
 "talk_description":"Der zweite Vortrag an diesem Montag von Michael Rolfsen behandelte den CSS-Preprocessor 'Less'. Nach einem kurzen Überblick über die verschiedenen Einsatz-Methoden von 'Less' und wie er die Funktionalität von CSS ergänzt, gab es einige konkrete Code-Beispiele mittels einer Demoseite.",
+"talk_speakerhandle_mastodon": "@michaelsupdates@social.cologne",
+"talk_speakerhandle_mastodon_link": "https://social.cologne/@michaelsupdates",
 "talk_slideslink":""
 }
 ]  

@@ -16,7 +16,16 @@
 "talk_title":"Progressive Enhancement",
 "talk_description":"Wie man älteren Internet Explorer Versionen zeit- und kostensparend modernes CSS beibringt",
 "talk_speaker":"Michael Rolfsen",
-"talk_speakerhandle":"michaelsupdates"
+"talk_speakerhandle":"michaelsupdates",
+"talk_speakerhandle_mastodon": "@michaelsupdates@social.cologne",
+"talk_speakerhandle_mastodon_link": "https://social.cologne/@michaelsupdates"
+},
+{
+"talk_date":"2011-06-06",
+"talk_title":"Kaufberater Larovo",
+"talk_description":"Der Kaufberater von Larovo am Beispiel eines Fernsehers",
+"talk_speaker":"Ulrich Glemnitz und Carsten Guthardt-Schulz",
+"talk_speakerhandle":""
 },
 {
 "talk_date":"2011-05-03",
@@ -29,7 +38,7 @@
 "talk_date":"2011-05-03",
 "talk_title":"Social Media Monitoring (@MiriWobo)",
 "talk_description":"",
-"talk_speaker":"Miriam ",
+"talk_speaker":"Miriam Wolfram-Bottermann",
 "talk_speakerhandle":"MiriWobo"
 },
 {
