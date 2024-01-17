@@ -1,6 +1,16 @@
 [
   {
     "talk_startseite": 1,
+    "talk_date": "2023-10-16",
+    "talk_title": "Film Screening mit anschließender Diskussion: 'Ex Machina'",
+    "talk_image": "",
+    "talk_description": "Der Webmontag Bonn lädt einem besonderen Filmabend innerhalb der Kinodedition-Reihe ein: Mit „Ex Machina”, Ein junger, sensibler Programmierer namens Caleb arbeitet für Blue Book, die führende Suchmaschine der Welt. Er erhält die Chance, eine Woche mit dem rätselhaften CEO des Unternehmens, Nathan, zu verbringen. Was als einzigartige Gelegenheit beginnt, entpuppt sich bald als eine Reise in die Tiefen der menschlichen Psyche und der Möglichkeiten künstlicher Intelligenz. In diesem stilvollen, psychologischen Thriller, der in der abgeschiedenen Schönheit Norwegens gedreht wurde, begegnet Caleb der humanoiden Ava. Ava ist ein faszinierendes Wesen, halb Mensch, halb Maschine, das Caleb in seinen Bann zieht. Ihre Erscheinung, eine Mischung aus synthetischer Haut, Kunststoff und transparentem Gehäuse, offenbart die meisterhafte Verschmelzung bionischer und Machine Learning Technologien. „Ex Machina” ist ein herausforderndes, philosophisches Drama, das mit feinen Schauspielleistungen, cleveren Wendungen und fundierten wissenschaftlichen Dialog überrascht. Doch unter der glänzenden Oberfläche verbirgt sich etwas, das sowohl intelligent als auch so gewagt ist, so dass es uns einlädt, die Mechanismen hinter der schicken Fassade zu erkunden und unsere persönliche Position in einem Mensch-Maschine-Kontinuum zu finden, indem die Grenzen zunehmend verschwimmen. Nach dem Film erwartet Euch eine angeregte Diskussionsrunde, in der wir gemeinsam die Themen des Films erkunden. Wir freuen uns auf einen Abend voller intellektueller Anregungen und tiefgreifender Gespräche.",
+    "talk_speaker": "Moderation: Damian Paderta",
+    "talk_speakerhandle": "paderta",
+    "talk_slideslink": ""
+  },
+  {
+    "talk_startseite": "",
     "talk_date": "2024-01-15",
     "talk_title": "Green Software Basics",
     "talk_description": "Nachhaltigkeit spielt heute eine entscheidende Rolle. Welche Möglichkeiten haben Softwareentwickler, um einen positiven Beitrag zum Umweltschutz zu leisten? Dieser Frage ist Andreas nachgegangen und stellt seine Erfahrungen, mögliche Ansätze und ein paar praktische Beispiele vor. Der Vortrag versteht sich als einfacher Einstieg in das komplexe wie zukunftsweisende Thema 'nachhaltige Softwareentwicklung'.",
@@ -10,7 +20,7 @@
     "talk_slideslink": ""
   },
   {
-    "talk_startseite": 2,
+    "talk_startseite": "",
     "talk_date": "2024-01-15",
     "talk_title": "Dynamische Formulare mit JSON und AJV",
     "talk_description": "Der Vortrag zeigt anhand konkreter Fallbeispiele, wie mit JSON-Schema Formularfelder definiert und mit AJV validiert werden können. Darüber hinaus werden Erfahrungen und Best-Practices aus dem Praxiseinsatz vermittelt.",
@@ -20,6 +30,3 @@
     "talk_slideslink": ""
   }
 ]
-
-
-
