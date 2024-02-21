@@ -2,6 +2,30 @@
   {
     "talk_startseite": 1,
     "talk_date": "2024-02-19",
+    "talk_title": "Open-Source Science (OSSci): Wissenschaftliche Forschung beschleunigen durch Stärkung von Open Source",
+    "talk_image": "",
+    "talk_description": "Open-Source Science (OSSci) ist eine Initiative von NumFOCUS – gegründet im Juli 2022 in Partnership mit IBM – mit dem Ziel, wissenschaftliche Forschung dadurch zu beschleunigen, indem man den Einsatz von Open-Source Software und jegliche damit zusammenhängenden Prozesse und Strukturen verbessert. OSSci vernetzt Wissenschaftler/innen, Open-Source-Entwickler/innen und andere Stakeholder/innen, um Best Practices auszutauschen, typische Reibungspunkte zu identifizieren und gemeinsam Lösungen zu entwickeln. Unsere bisherigen Arbeitsgruppen behandeln die Themenschwerpunkte Chemie/Materialwissenschaften, Life Sciences und Klima/Sustainability.",
+    "talk_speaker": "Tim Bonnemann",
+    "talk_speakerhandle_mastodon": "@sfba.social/@planspark",
+    "talk_speakerhandle_mastodon_link": "https://sfba.social/@planspark",
+    "talk_speakerhandle_linkedin": "https://www.linkedin.com/in/tbonnemann/",
+    "talk_slideslink": ""
+  },
+  {
+    "talk_startseite": 2,
+    "talk_date": "2024-02-19",
+    "talk_title": "Microservices. Why? – Or why not?",
+    "talk_image": "",
+    "talk_description": "Microservices sind seit einigen Jahren bereits Thema. Das narrativ und die Haltung dazu hat sich im Hinblick der vergangenen Jahren geändert und der Hype ist abgeflacht. Zurecht? Dieser Vortrag zeigt einige Faktoren und Punkte auf unter denen man erwägen sollte, ob der Einsatz von Microservices probat ist oder eben nicht — durch die Sicht als Projektmanager wird hier ein Einblick gegeben. <br>Optional folgt in einem zweiten Teil ein technischer Part, der durch den Blick als DevOp auf das Thema weitere Faktoren, die bei der Entscheidungsfindung helfen, darlegt.",
+    "talk_speaker": "Sascha Duepre",
+    "talk_speakerhandle_mastodon": "",
+    "talk_speakerhandle_linkedin": "https://www.linkedin.com/in/sascha-duepre/",
+    "talk_speakerhandle_mastodon_link": "",
+    "talk_slideslink": ""
+  },
+  {
+    "talk_startseite": "",
+    "talk_date": "2024-02-19",
     "talk_title": "Film Screening mit anschließender Diskussion: 'Ex Machina'",
     "talk_image": "ex-machina_text.webp",
     "talk_description": "Der Webmontag Bonn lädt einem besonderen Filmabend innerhalb der Kinodedition-Reihe ein: <br><br> Mit „Ex Machina”, Ein junger, sensibler Programmierer namens Caleb arbeitet für Blue Book, die führende Suchmaschine der Welt. Er erhält die Chance, eine Woche mit dem rätselhaften CEO des Unternehmens, Nathan, zu verbringen. Was als einzigartige Gelegenheit beginnt, entpuppt sich bald als eine Reise in die Tiefen der menschlichen Psyche und der Möglichkeiten künstlicher Intelligenz. In diesem stilvollen, psychologischen Thriller, der in der abgeschiedenen Schönheit Norwegens gedreht wurde, begegnet Caleb der humanoiden Ava. Ava ist ein faszinierendes Wesen, halb Mensch, halb Maschine, das Caleb in seinen Bann zieht. Ihre Erscheinung, eine Mischung aus synthetischer Haut, Kunststoff und transparentem Gehäuse, offenbart die meisterhafte Verschmelzung bionischer und Machine Learning Technologien. <br><br> „Ex Machina” ist ein herausforderndes, philosophisches Drama, das mit feinen Schauspielleistungen, cleveren Wendungen und fundierten wissenschaftlichen Dialog überrascht. Doch unter der glänzenden Oberfläche verbirgt sich etwas, das sowohl intelligent als auch so gewagt ist, so dass es uns einlädt, die Mechanismen hinter der schicken Fassade zu erkunden und unsere persönliche Position in einem Mensch-Maschine-Kontinuum zu finden, indem die Grenzen zunehmend verschwimmen. <br><br>Nach dem Film erwartet Euch eine angeregte Diskussionsrunde, in der wir gemeinsam die Themen des Films erkunden. Wir freuen uns auf einen Abend voller intellektueller Anregungen und tiefgreifender Gespräche.<br><br> Location:<br>Bonner Kinemathek(Brotfabrik) • Kreuzstraße 16 • Bonn<br>    Beginn: 19:30 Uhr, Einlass kurz vorher & freie Platzwahl<br>    Sprache: englisch (OmU)<br>    Eintritt: € 9 ermäßigt: € 7",

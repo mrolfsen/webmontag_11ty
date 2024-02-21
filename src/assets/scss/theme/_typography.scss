@@ -106,10 +106,14 @@ a.meetup-link {
     background: var(--button-background);
     border: .2em solid var(--button-border);
     color:var(--font-color);
+    transition: color .2s;
     border-radius: 300px;
     font-weight: 600;
     text-decoration: none;
 
+    &:hover {
+        color: var(--accent-color);
+    }
     svg {
         height:2.3em;
         width:2.3em;
@@ -128,8 +132,8 @@ a.meetup-link {
         color:var(--accent-color);
     }
     svg {
-        height:1.7em;
-        width:1.7em;
+        height:1.9em;
+        width:1.9em;
         margin-right:0.2em;
     }
 

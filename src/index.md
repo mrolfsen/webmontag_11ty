@@ -2,7 +2,7 @@
 title: "Home"
 layout: "_sitetemplate"
 bodyClass: "start"
-date: "2024-02-19"
+date: "2024-03-18"
 
 ---
 
@@ -26,7 +26,7 @@ In der Regel findet der Webmontag am **DRITTEN MONTAG IM MONAT** abends um **19 
 {% block address%}
 
 Location:  
-{{ global.brotfabrik | safe }}
+{{ global.digitalhub | safe }}
 
 {% endblock %}
  

@@ -32,6 +32,13 @@
                 {{ item.talk_speakerhandle_mastodon }}
             </a>
         {% endif %}
+
+        {% if item.talk_speakerhandle_linkedin %}
+            <a class="social-link" href="{{ item.talk_speakerhandle_linkedin }}">
+                <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-linkedin"></use></svg>
+                LinkedIn Profil
+            </a>
+        {% endif %}
         </p>    
     </div>
 </div>

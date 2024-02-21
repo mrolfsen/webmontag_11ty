@@ -16,7 +16,7 @@ Overbeckstr. 50
 
 
 
-### 2.1 Gestaltung & Realisierung:
+### 2 Gestaltung & Realisierung:
 
 bold & friendly | Designagentur  
 Overbeckstr. 50  
@@ -31,3 +31,8 @@ Die auf dieser Website ver&ouml;ffentlichten Inhalte und Werke sind urheberrecht
 
 Externe Links sind vor Verlinkung ausf&uuml;hrlich und gewissenhaft auf erkennbare Rechtsverst&ouml;&szlig;e gepr&uuml;ft worden. Der Anbieter weist darauf hin, dass er keinerlei Einflu&szlig; auf aktuelle und zuk&uuml;nftige Inhalte verkn&uuml;pfter externer Seiten hat. Insbesondere macht sich der Anbieter dieser Website gelinkte Inhalte ausdr&uuml;cklich nicht zu eigen. Die Inhalte externer Seiten, die von dieser Seite aus verlinkt sind, unterliegen der Haftung des jeweiligen Anbieters.
 
+### 5. Colophon:
+
+Site Generator: eleventy (11ty),  
+Scss, vanilla JS, Utopia (fluid type), nunjucks  
+hosted on Github, deployed on Netlify  
