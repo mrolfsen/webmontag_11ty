@@ -1,4 +1,4 @@
-![](/src/icon.png "")  
+![](src/icon.png "")  
 # webmontag-bonn
 
 ### Colophon:  
