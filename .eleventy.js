@@ -21,7 +21,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(sitemap, {
     lastModifiedProperty: "modified",
     sitemap: {
-        hostname: "https://www.boldandfriendly.de",
+        hostname: "https://webmontag-bonn.de",
     },
   });
 
