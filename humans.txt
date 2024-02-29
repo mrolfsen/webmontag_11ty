@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Kathrin Rolfsen, bold & friendly -- Design -- @katsupdates
+    Michael Rolfsen, bold & friendly -- FE-Dev -- @michaelsupdates
+
+
+# TECHNOLOGY COLOPHON
+
+    Site Generator: eleventy (11ty),  
+    Scss, vanilla JS, Utopia (fluid type), nunjucks  
+    hosted on Github, deployed on Netlify  
