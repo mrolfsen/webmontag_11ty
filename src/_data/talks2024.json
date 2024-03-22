@@ -1,6 +1,16 @@
 [
   {
     "talk_startseite": 1,
+    "talk_date": "2024-04-15",
+    "talk_title": "Film Screening mit anschließender Diskussion: 'TBA'",
+    "talk_image": "",
+    "talk_description": "<br> Location:<br>Bonner Kinemathek(Brotfabrik) • Kreuzstraße 16 • Bonn<br>    Beginn: 19:30 Uhr, Einlass kurz vorher & freie Platzwahl<br>    Sprache: englisch (OmU)<br>    Eintritt: € 9 ermäßigt: € 7",
+    "talk_speaker": "Moderation: Damian Paderta",
+    "talk_speakerhandle": "paderta",
+    "talk_slideslink": ""
+  },
+  {
+    "talk_startseite": "",
     "talk_date": "2024-02-19",
     "talk_title": "Open-Source Science (OSSci): Wissenschaftliche Forschung beschleunigen durch Stärkung von Open Source",
     "talk_image": "",
@@ -12,7 +22,7 @@
     "talk_slideslink": "https://opensource.science/how-to-get-involved-in-ossci-be4f9d0b2c3d"
   },
   {
-    "talk_startseite": 2,
+    "talk_startseite": "",
     "talk_date": "2024-02-19",
     "talk_title": "Microservices. Why? – Or why not?",
     "talk_image": "",

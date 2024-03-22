@@ -2,7 +2,7 @@
 title: "Home"
 layout: "_sitetemplate"
 bodyClass: "start"
-date: "2024-03-18"
+date: "2024-04-15"
 
 ---
 
@@ -11,7 +11,7 @@ date: "2024-03-18"
 
 {% block einleitung %} 
 
-Der Webmontag Bonn ist ein Zusammentreffen webaffiner Menschen, die bei einem Kaltgetränk Kontakte kn&uuml;pfen und sich &uuml;ber die aktuelle Entwicklung im Web austauschen m&ouml;chten. In der Regel gibt es ein bis zwei Vortr&auml;ge &ndash; Alle sind eingeladen, sich einzubringen. Bitte k&uuml;ndigt euren Vortrag im Vorfeld [hier](mailto:welcome@wmbn.de) an, das hilft uns ungemein bei der Koordination. Eine **[Vortrags-Wunschliste findet ihr hier](/vortrags-wunschliste/)**  
+Der Webmontag Bonn ist ein Zusammentreffen webaffiner Menschen, die bei einem Kaltgetränk Kontakte kn&uuml;pfen und sich zu den aktuellen Entwicklungen im Web austauschen m&ouml;chten. In der Regel gibt es ein bis zwei Vortr&auml;ge &ndash; Alle sind eingeladen, sich einzubringen. Bitte k&uuml;ndigt euren Vortrag im Vorfeld [hier](mailto:welcome@wmbn.de) an, das hilft uns ungemein bei der Koordination. Eine **[Vortrags-Wunschliste findet ihr hier](/vortrags-wunschliste/)**  
 
 {% endblock %}
 
@@ -26,7 +26,7 @@ In der Regel findet der Webmontag am **DRITTEN MONTAG IM MONAT** abends um **19 
 {% block address%}
 
 Location:  
-{{ global.digitalhub | safe }}
+{{ global.brotfabrik | safe }}
 
 {% endblock %}
  
