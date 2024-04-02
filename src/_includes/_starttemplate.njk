@@ -26,23 +26,17 @@
         </div>
     </div>
 </section>
+
 <section class="talk-section">
-<h2>Talks im {{ date | date('LLLL') }}:</h2>
-<div class="the-talks">
-{%- for item in talks2024 | limit(1) -%}
-{%- if (item.talk_startseite === 1) -%}
-{%- include 'src/_includes/_talk-start-item.njk' -%}    
-{%- endif -%}
-{%- endfor -%}
-{%- for item in talks2024 -%}
-{%- if (item.talk_startseite === 2) -%}
-{%- include 'src/_includes/_talk-start-item.njk' -%}
-{%- endif -%}
-{%- endfor -%}
-</div>
+    <h2>Talks im {{ date | date('LLLL') }}:</h2>
+    <div class="the-talks">
+
+    {%- for item in talks2024 | limit(2) -%}
+        {%- if item.talk_startseite === 1 -%}
+            {%- include 'src/_includes/_talk-start-item.njk' -%}    
+        {%- endif -%}
+    {%- endfor -%}
+
+    </div>
 </section>
 <h3 style="text-align: center;">Talks der letzen Webmontage findet ihr <a href="/{{ date | date('yyyy') }}/">hier</a>.</h3>
-
-
-
-
