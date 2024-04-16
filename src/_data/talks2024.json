@@ -1,7 +1,31 @@
 [
   {
     "talk_startseite": 1,
-    "talk_date": "2024-02-19",
+    "talk_date": "2024-05-13",
+    "talk_title": "Dom-Event: Click",
+    "talk_image": "",
+    "talk_description": "Mehr dazu in Kürze hier...",
+    "talk_speaker": "Martin Winkler",
+    "talk_speakerhandle_mastodon": "",
+    "talk_speakerhandle_mastodon_link": "",
+    "talk_speakerhandle_linkedin": "",
+    "talk_slideslink": ""
+  },
+  {
+    "talk_startseite": 1,
+    "talk_date": "2024-05-13",
+    "talk_title": "Rust, Typescript, C++, Javascript – Die Unterschiede für Nicht-Informatiker",
+    "talk_image": "",
+    "talk_description": "Mehr dazu in Kürze hier...",
+    "talk_speaker": "Sascha Duepre",
+    "talk_speakerhandle_mastodon": "",
+    "talk_speakerhandle_linkedin": "https://www.linkedin.com/in/sascha-duepre/",
+    "talk_speakerhandle_mastodon_link": "",
+    "talk_slideslink": ""
+  },
+  {
+    "talk_startseite": "",
+    "talk_date": "2024-03-18",
     "talk_title": "Open-Source Science (OSSci): Wissenschaftliche Forschung beschleunigen durch Stärkung von Open Source",
     "talk_image": "",
     "talk_description": "Open-Source Science (OSSci) ist eine Initiative von NumFOCUS – gegründet im Juli 2022 in Partnership mit IBM – mit dem Ziel, wissenschaftliche Forschung dadurch zu beschleunigen, indem man den Einsatz von Open-Source Software und jegliche damit zusammenhängenden Prozesse und Strukturen verbessert. OSSci vernetzt Wissenschaftler/innen, Open-Source-Entwickler/innen und andere Stakeholder/innen, um Best Practices auszutauschen, typische Reibungspunkte zu identifizieren und gemeinsam Lösungen zu entwickeln. Unsere bisherigen Arbeitsgruppen behandeln die Themenschwerpunkte Chemie/Materialwissenschaften, Life Sciences und Klima/Sustainability.",
@@ -12,8 +36,8 @@
     "talk_slideslink": "https://opensource.science/how-to-get-involved-in-ossci-be4f9d0b2c3d"
   },
   {
-    "talk_startseite": 1,
-    "talk_date": "2024-02-19",
+    "talk_startseite": "",
+    "talk_date": "2024-03-18",
     "talk_title": "Microservices. Why? – Or why not?",
     "talk_image": "",
     "talk_description": "Microservices sind seit einigen Jahren bereits Thema. Das narrativ und die Haltung dazu hat sich im Hinblick der vergangenen Jahren geändert und der Hype ist abgeflacht. Zurecht? Dieser Vortrag zeigt einige Faktoren und Punkte auf unter denen man erwägen sollte, ob der Einsatz von Microservices probat ist oder eben nicht — durch die Sicht als Projektmanager wird hier ein Einblick gegeben. <br>Optional folgt in einem zweiten Teil ein technischer Part, der durch den Blick als DevOp auf das Thema weitere Faktoren, die bei der Entscheidungsfindung helfen, darlegt.",
