@@ -2,12 +2,12 @@
   {
     "talk_startseite": 1,
     "talk_date": "2024-05-13",
-    "talk_title": "Dom-Event: Click",
+    "talk_title": "DOM Event Cancellation - pitfalls and solutions",
     "talk_image": "",
-    "talk_description": "Mehr dazu in Kürze hier...",
-    "talk_speaker": "Martin Winkler",
-    "talk_speakerhandle_mastodon": "",
-    "talk_speakerhandle_mastodon_link": "",
+    "talk_description": "We use event cancellation whenever we need finer control over which event listeners in the DOM should run and which shouldn't. If we are unaware of the pitfalls we can cause hard-to-detect bugs that might easily slip through testing and end up in production. Let's uncover those pitfalls and explore solutions.",
+    "talk_speaker": "Martin Winkler, Web-Entwickler bei Avenga Germany GmbH",
+    "talk_speakerhandle_mastodon": "@mwinkler@mastodon.social",
+    "talk_speakerhandle_mastodon_link": "https://mastodon.social/@mwinkle",
     "talk_speakerhandle_linkedin": "",
     "talk_slideslink": ""
   },
