@@ -16,7 +16,7 @@
     "talk_date": "2024-05-13",
     "talk_title": "Rust, Typescript, C++, Javascript – Die Unterschiede für Nicht-Informatiker",
     "talk_image": "",
-    "talk_description": "Mehr dazu in Kürze hier...",
+    "talk_description": "Begriffe wie Compiler, Transpiler, Interpreter aber auch Pointer oder BufferOverwflow oder Call-Stack klingen für Außenstehende aber auch für den/die fähige/n Programmierer:in, Quereinsteiger:in, Anfänger:in oft genung nach böhmischen Dörfern. <br>Mein Ziel ist es, diese Dinge unkompliziert und verständlich darzustellen – Damit möchte ich euch die Mittel an die Hand geben, um auch technische Fachartikel im Bereich der Programmiersprachen einfach und nachvollziehbar zu machen.",
     "talk_speaker": "Sascha Duepre",
     "talk_speakerhandle_mastodon": "",
     "talk_speakerhandle_linkedin": "https://www.linkedin.com/in/sascha-duepre/",
