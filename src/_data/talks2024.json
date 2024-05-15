@@ -9,7 +9,7 @@
     "talk_speakerhandle_mastodon": "@mwinkler@mastodon.social",
     "talk_speakerhandle_mastodon_link": "https://mastodon.social/@mwinkler",
     "talk_speakerhandle_linkedin": "",
-    "talk_slideslink": ""
+    "talk_slideslink": "https://github.com/teetotum/material/tree/master/dom-event-cancellation-revised"
   },
   {
     "talk_startseite": 1,
