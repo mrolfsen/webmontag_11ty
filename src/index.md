@@ -11,7 +11,7 @@ date: "2024-05-13"
 
 {% block einleitung %} 
 
-Der Webmontag Bonn ist ein Zusammentreffen webaffiner Menschen, die bei einem Kaltgetränk Kontakte kn&uuml;pfen und sich zu den aktuellen Entwicklungen im Web austauschen m&ouml;chten. In der Regel gibt es ein bis zwei Vortr&auml;ge &ndash; Alle sind eingeladen, sich einzubringen. Bitte k&uuml;ndigt euren Vortrag im Vorfeld [hier](mailto:welcome@wmbn.de) an, das hilft uns ungemein bei der Koordination. Eine **[Vortrags-Wunschliste findet ihr hier](/vortrags-wunschliste/)**  
+Der Webmontag Bonn ist ein Zusammentreffen webaffiner Menschen, die bei einem Kaltgetränk Kontakte kn&uuml;pfen und sich zu den aktuellen Entwicklungen im Web austauschen m&ouml;chten. In der Regel gibt es ein bis zwei Vortr&auml;ge &ndash; Alle sind eingeladen, sich einzubringen. Bitte k&uuml;ndigt euren Vortrag im Vorfeld [hier](mailto:welcome@wmbn.de) an, das hilft uns ungemein bei der Koordination. Eine **[Vortrags-Wunschliste findet ihr hier](/vortrags-wunschliste/)**.  
 
 {% endblock %}
 
