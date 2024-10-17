@@ -1,6 +1,30 @@
 [
   {
     "talk_startseite": 1,
+    "talk_date": "2024-11-18",
+    "talk_title": "Web Audio & openDAW",
+    "talk_image": "",
+    "talk_description": "André gibt einen Überblick über die Entwicklung von Web Audio, von Flashplayer bis zur Web Audio API. Während man sich früher den Main-Thread teilen musste, ermöglichen heute AudioWorklet und WebAssembly komplexes Echtzeit-AudioProcessing im Web. André zeigt einige kurzweilige Experimente und stellt das zukünftige open-source Projekt openDAW vor, eine Plattform, die Musikproduktion im Web demokratisieren soll, mit Fokus auf Accessibility und Education für alle, die Musik produzieren oder lernen wollen. <a href='https://openDAW.org'>https://openDAW.org</a>",
+    "talk_speaker": "André Michelle (Kickstarter openDAW)",
+    "talk_speakerhandle_mastodon": "",
+    "talk_speakerhandle_mastodon_link": "",
+    "talk_speakerhandle_linkedin": "https://www.linkedin.com/in/andremichelle/",
+    "talk_slideslink": ""
+  },
+  {
+    "talk_startseite": 1,
+    "talk_date": "2024-11-18",
+    "talk_title": "tba",
+    "talk_image": "",
+    "talk_description": "Hier erfahrt ihr in Kürze mehr zu unserem zweiten Talk.",
+    "talk_speaker": "Benjamin Helsper",
+    "talk_speakerhandle_mastodon": "",
+    "talk_speakerhandle_mastodon_link": "",
+    "talk_speakerhandle_linkedin": "https://www.linkedin.com/in/benjamin-helsper-bb621460/",
+    "talk_slideslink": ""
+  },
+  {
+    "talk_startseite": "",
     "talk_date": "2024-05-13",
     "talk_title": "DOM Event Cancellation - pitfalls and solutions",
     "talk_image": "",
@@ -12,7 +36,7 @@
     "talk_slideslink": "https://github.com/teetotum/material/tree/master/dom-event-cancellation-revised"
   },
   {
-    "talk_startseite": 1,
+    "talk_startseite": "",
     "talk_date": "2024-05-13",
     "talk_title": "Rust, Typescript, C++, Javascript – Die Unterschiede für Nicht-Informatiker",
     "talk_image": "",
