@@ -18,8 +18,9 @@
         border-radius: 300px !important;
         font-weight: 600 !important;
         text-decoration: none !important;
+        cursor:pointer;
     }
-    input {
+    input:not(.input--hidden) {
         font-size: 1.2em !important;
         display: inline-flex !important;
         align-items: center !important;
@@ -40,4 +41,7 @@
     label {
         visibility:hidden;
     }
+}
+.input--hidden {
+    visibility:hidden;
 }
