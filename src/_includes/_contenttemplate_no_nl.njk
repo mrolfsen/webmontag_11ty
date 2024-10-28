@@ -1,0 +1,23 @@
+---
+layout: _sitetemplate_no_nl.njk
+
+---
+
+
+<section id="headline" class="green">
+    <div class="centered">
+        <h1>{{ title }}</h1>
+    </div>
+</section>
+
+<div id="main" role="main">
+    <div id="content"> 
+        <article>
+            <section id="{nameOfArticle}" class="clearfix">
+          
+                {{ content | safe }}
+ 
+            </section>
+        </article>
+    </div> <!--! end of #content -->
+</div>

@@ -1,0 +1,126 @@
+<!doctype html>
+<html class="no-js" lang="de-de">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Webmontag Bonn | {{ title }}</title>
+    <meta name="description" content="Webmontag Bonn | Der Webmontag Bonn ist ein zwangloses Zusammentreffen webaffiner Menschen, die bei einem Kaffee oder Bier Kontakte kn&uuml;pfen und sich &uuml;ber die aktuelle Entwicklung im Web austauschen m&ouml;chten.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-title" content="WMBN">
+
+    <meta property="og:title" content="Webmontag Bonn | {{ title }}"/>
+    <meta property="og:image" content="https://www.webmontag-bonn.de/webmontag-bonn-social-image.jpg"/>
+    <meta property="og:description" content="Der Webmontag Bonn ist ein zwangloses Zusammentreffen webaffiner Menschen, die bei einem Kaffee oder Bier Kontakte kn&uuml;pfen und sich &uuml;ber die aktuelle Entwicklung im Web austauschen m&ouml;chten."/>
+    <meta property="og:url" content="https://www.webmontag-bonn.de{{ page.url }}"/>
+    <meta property="og:type" content="article">
+
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+
+    <link rel="apple-touch-icon-precomposed" href="/icon.png">
+    <link rel="icon" href="/favicon.ico">
+    
+    <link rel="stylesheet" href="{{ '/assets/scss/index.css' | rev }}" />
+    
+    <script defer data-domain="webmontag-bonn.de" src="https://plausible.io/js/script.js"></script>
+
+</head>
+<body class="{{ bodyClass }} ">
+   
+    {% include 'icon-sprite.svg' %}
+
+    <div class="wrapper le-grid">
+       
+        <header>
+            <!-- Navigation bar -->
+            
+            <nav>
+                <ul>
+                    {%- for post in collections.headerNavi -%}
+                    <li {% if page.url == post.url %} class="active" {% endif %}>
+                        <a href="{{ post.url }}">{{ post.data.title }}</a>
+                    </li>
+                    {%- endfor -%}
+                    <li>
+                        {%- include 'src/_includes/_meetup-button.njk' %}
+                    </li>
+                </ul>
+            </nav>
+
+            <a class="logo" href="/" title="home">
+                <img class="signet" src="/assets/img/Signet.svg" alt="Webmontag Bonn Signet" width="183" height="183">
+                <img class="logotype" src="/assets/img/Webmontag Bonn-LogoType.svg" alt="Webmontag-Bonn Logotype" width="910" height="241">
+            </a>
+            <!-- EOF Navi -->
+        </header>
+        <div id="main" role="main">
+
+            <article>
+            <!-- The Content -->
+            {{ content | safe }}
+        
+            </article>
+        </div>
+        <!-- Le Footer -->
+
+
+        <footer>
+            <nav class="socialMedia">
+                <ul>
+                    <li><a href="https://twitter.com/#!/webmontagbonn" target="_blank" rel="noopener" title="twitter" aria-label="twitter">
+                        <svg class="soc-icons twitter-icon">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-twitter"></use>
+                        </svg>
+                    </a></li>
+                    <li><a href="https://www.facebook.com/pages/Webmontag-Bonn/126117114126786" target="_blank" rel="noopener" aria-label="facebook" title="facebook">
+                        <svg class="soc-icons facebook-icon">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-facebook"></use>
+                        </svg>
+                    </a></li>
+                    <li><a href="https://www.meetup.com/de-DE/WebmontagBonn/" target="_blank" rel="noopener" aria-label="meetup" title="meetup">
+                        <svg class="soc-icons meetup-icon">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-meetup"></use>
+                        </svg>
+                    </a></li>
+                    <li><a href="https://www.linkedin.com/groups/12844039/" target="_blank" rel="noopener" aria-label="linkedin" title="linkedin">
+                        <svg class="soc-icons linkedin-icon">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-linkedin"></use>
+                        </svg>
+                    </a></li>
+                    <li><a href="https://bonn.social/@webmontagbonn" target="_blank" rel="me" aria-label="mastodon" title="mastodon">
+                        <svg class="soc-icons mastodon-icon">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-mastodon"></use>
+                        </svg>
+                    </a></li>
+                    <li><a href="https://discord.gg/bj4JzPhwas" target="_blank" aria-label="discord" title="discord">
+                        <svg class="soc-icons discord-icon">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-discord"></use>
+                        </svg>
+                    </a></li>
+                </ul>
+            </nav>
+            <nav class="supportNavi">
+                <ul>
+                    {%- for post in collections.footerNavi -%}
+                    <li {% if page.url == post.url %} class="active" {% endif %}>
+                        <a href="{{ post.url }}">{{ post.data.title }}</a>
+                    </li>
+                    {%- endfor -%}
+                </ul>
+            </nav>
+            <div class="sponsor">
+                <p>Co-Organistator und Host:</p>
+                <img src="/assets/img/digital-hub-logo.png" alt="Logo des Digital-Hub Bonn" width="322" height="43">
+            </div>
+            <div class="colophon">    
+                <p>&copy {{ helpers.currentYear() }} Design &amp; Development: <a href="https://www.boldandfriendly.de" target="_blank" rel="noopener">bold & friendly | Designagentur</a></p>
+            </div>
+            <div class="cookies">
+                <p>🍪 Cookie-Hinweis: Wir setzen keine Cookies! DSGVO-konforme Analytics via <a href="https://www.plausible.io" rel="noopener">Plausible</a></p>
+            </div>
+        </footer>
+
+    </div> <!-- EOF Wrapper le grid -->
+
+</body>
+</html>
