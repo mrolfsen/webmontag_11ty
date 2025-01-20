@@ -31,7 +31,7 @@
     <h2>Talks im {{ date | date('LLLL') }}:</h2>
     <div class="the-talks">
 
-    {%- for item in talks2024 | limit(2) -%}
+    {%- for item in talks2025 | limit(2) -%}
         {%- if item.talk_startseite === 1 -%}
             {%- include 'src/_includes/_talk-start-item.njk' -%}    
         {%- endif -%}

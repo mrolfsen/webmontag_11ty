@@ -1,0 +1,17 @@
+---
+layout: _talkstemplate.njk
+title: "Talks"
+yeartitle: "2025"
+date: 2025-01-01
+tags: 
+    - headerNavi
+    - talksNavi
+---
+
+
+                                     
+{% for item in talks2025 %}              
+
+    {% include 'src/_includes/_talk-item.njk' %}
+
+{% endfor %}
