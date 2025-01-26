@@ -29,4 +29,3 @@ Location:
 {{ global.digitalhub | safe }}
 
 {% endblock %}
- 

@@ -79,6 +79,7 @@ footer {
         align-items: center;
         img {
             width:clamp(254px, 30vw, 320px);
+            max-width: 100%;
             height:auto;
         }
         p {
@@ -92,6 +93,7 @@ footer {
             grid-column: 2;
             ul {
                 justify-content: end;
+                margin-top:1.2em;
             }
         }
         nav.socialMedia {
