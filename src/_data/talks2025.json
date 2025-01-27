@@ -4,7 +4,7 @@
         "talk_date": "2025-02-17",
         "talk_title": "Accidental Complexity",
         "talk_image": "",
-        "talk_description": "",
+        "talk_description": "Wer kennt es nicht, man hat ein neues Projekt, entwickelt eine Weile, vielleicht allein, vielleicht in einem (mittel-)großen Team, der Umfang wächst, und früher oder später hat man ein paar (oder auch viele) Ecken wo einem die Komplexität über den Kopf wächst? Und in den allermeisten Fällen liegt's gar nicht an der Komplexität der Anwendungsdomäne, sondern das Problem ist hausgemacht und unser Code ist komplexer als er sein müsste. Dafür gibt's einen Begriff: Accidental Complexity Ich beleuchte das Thema, berichte von eigenen Erfahrungen und Einsichten, und was ich in der Literatur bisher dazu gefunden habe.",
         "talk_speaker": "Martin Winkler, Web-Entwickler bei Avenga Germany GmbH",
         "talk_speakerhandle_mastodon": "@mwinkler@mastodon.social",
         "talk_speakerhandle_mastodon_link": "https://mastodon.social/@mwinkler",
