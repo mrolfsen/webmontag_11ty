@@ -9,7 +9,7 @@
         "talk_speakerhandle_mastodon": "@mwinkler@mastodon.social",
         "talk_speakerhandle_mastodon_link": "https://mastodon.social/@mwinkler",
         "talk_speakerhandle_linkedin": "",
-        "talk_slideslink": ""
+        "talk_slideslink": "https://github.com/teetotum/material/tree/master/accidental-complexity"
         },
         {
         "talk_startseite": 1,
@@ -21,6 +21,6 @@
         "talk_speakerhandle_mastodon": "@lascapi@mastodon.zaclys.com",
         "talk_speakerhandle_mastodon_link": "https://mastodon.zaclys.com/@lascapi",
         "talk_speakerhandle_linkedin": "",
-        "talk_slideslink": ""
+        "talk_slideslink": "https://how-to-chat-with-your-friends-in-2025.lascapi.fr/"
         }
 ]
