@@ -1,4 +1,3 @@
-
 {
   "name": "webmontag_11ty",
   "version": "1.0.0",
@@ -24,6 +23,9 @@
   "dependencies": {
     "@quasibit/eleventy-plugin-sitemap": "^2.2.0",
     "eleventy-plugin-rev": "^2.0.0",
-    "eleventy-sass": "^2.2.3"
+    "eleventy-sass": "^2.2.3",
+    "js-yaml": "^3.14.2",
+    "markdown-it": "^14.1.1",
+    "minimatch": "^5.1.7"
   }
 }

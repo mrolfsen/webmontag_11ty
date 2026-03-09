@@ -1,20 +1,20 @@
 
-//@import "theme/main";
-@import "theme/normalize";
-@import "theme/fonts";
+//@use "theme/main";
+@use "theme/normalize";
+@use "theme/fonts";
 
-@import "theme/variables";
-@import "theme/typography";
-@import "theme/scaffolding";
-@import "theme/header";
-@import "theme/navigation";
-@import "theme/social-media";
+@use "theme/variables";
+@use "theme/typography";
+@use "theme/scaffolding";
+@use "theme/header";
+@use "theme/navigation";
+@use "theme/social-media";
 
-@import "theme/components/talks-starseite";
-@import "theme/components/talk-years";
-@import "theme/components/talk-item";
-@import "theme/components/team";
+@use "theme/components/talks-starseite";
+@use "theme/components/talk-years";
+@use "theme/components/talk-item";
+@use "theme/components/team";
 
-@import "theme/components/newsletter-section";
+@use "theme/components/newsletter-section";
 
-@import "theme/footer";
+@use "theme/footer";
